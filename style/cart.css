@@ -1,0 +1,131 @@
+/* CART */
+.cart {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: var(--gap);
+
+    max-width: 1600px;
+    margin-inline: auto;
+
+    &.is-empty {
+        & .cart__empty {
+            display: flex;
+        }
+
+        & .cart__grid {
+            display: none;
+        }
+    }
+
+    & .cart__products {
+        width: 100%;
+        max-width: 1000px;
+    }
+
+    & .cart__grid {
+        display: flex;
+        flex-direction: column;
+        gap: var(--bento-gap);
+    }
+
+    & .cart__empty {
+        display: none;
+        justify-content: center;
+    }
+
+    & .cart__summary {
+        --current-bg: var(--card-background);
+
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+        width: 100%;
+        max-width: 600px;
+        padding: var(--padding-large);
+
+        background-color: var(--current-bg);
+        border-radius: var(--border-radius);
+    }
+
+    & .cart__totals {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    & .cart__products-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    & .cart__row {
+        display: flex;
+        gap: 5px;
+    }
+
+    & .cart__summary-label {
+        width: 100%;
+    }
+
+    & .cart__summary-quantity {
+        flex-shrink: 0;
+
+        width: 40px;
+        text-align: center;
+    }
+
+    & .cart__summary-price {
+        flex-shrink: 0;
+
+        width: 100px;
+        text-align: right;
+    }
+
+    & .cart__summary-price-total {
+        flex-shrink: 0;
+
+        width: 150px;
+        text-align: right;
+    }
+
+    & .cart__divider {
+        border: 1px solid var(--accent);
+    }
+
+    & .cart__promo {
+        display: flex;
+        gap: 20px;
+
+        width: 100%;
+
+        & .input-block {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1440px) {
+        flex-direction: column;
+
+        & .cart-card,
+        & .cart__products {
+            max-width: 100%;
+        }
+
+        & .cart__summary {
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 480px) {
+        & .cart__summary {
+            gap: 20px;
+        }
+
+        & .cart__promo {
+            gap: 10px;
+        }
+    }
+}

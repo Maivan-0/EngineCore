@@ -1,0 +1,2931 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Timing Belt Set SKF VKMA 03306",
+      "sku": "VKMA 03306",
+      "oe_number": "16 086 842 80, 9675873980, 16 545 127 80, 16 290 801 80, 16 108 724 80, 16 088 876 80, 9822154480, 16 545 146 80, 16 545 076 80, 16 230 681 80, 16 088 881 80, 16 545 160 80, 16 545 126 80, 16 232 316 80, 16 108 705 80",
+      "price": 2450.00,
+      "sale_price": 2082.50,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 15,
+      "in_stock_qty": 6,
+      "category": "engine",
+      "search_keywords": "timing belt set skf vkma 03306 vkma03306 vkm23305 1608887680 1654516080 kit distributie curea distributie peugeot 108 208 301 308 408 508 2008 3008 5008 partner rifter 1.2 puretech vti thp premium engine piese motor",
+      "images": ["https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F50%2F267%2F07%2Fvkma_03306.jpg?1"],
+      "manufacturer": "SKF",
+      "manufacturer_details": "SKF, Sven Wingquists Gata 2, Göteborg, 415 50, SE, +46 31 337 10 00, www.vehicleaftermarket.skf.com",
+      "main_specifications": {
+        "Belts": "With rounded tooth profile",
+        "Belt Width [mm]": "15.9",
+        "Belt Material": "PTFE (polytetrafluoroethylene)",
+        "Number of Teeth": "118",
+        "Colour": "White"
+      },
+      "other_specifications": {
+        "Brand class": "Premium",
+        "Trade numbers": "VKM 23305",
+        "Cross-References": "CONTINENTAL CT1228K1, DAYCO KBIO07, GATES K01T360HOB, INA 530 0856 10, FEBI 49560",
+        "Application": "Belt in Oil system (curea umeda)"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 108",
+          "Peugeot 208",
+          "Peugeot 301",
+          "Peugeot 308",
+          "Peugeot 408",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot 5008",
+          "Peugeot Partner",
+          "Peugeot Rifter"
+        ],
+        "year": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 VTi", "1.2 e-VTi", "1.2 THP"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HM01 (EB2FB)", "HNY (EB2DTS)", "HNZ (EB2DT)", "HNV (EB2DTMD)", "HN01 (EB2ADT)"],
+        "power_hp": ["68 HP", "82 HP", "110 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Water Pump & Timing Belt Kit SKF VKMC 03306-1",
+      "sku": "VKMC 03306-1",
+      "oe_number": "16 095 876 80, 98 176 433 80, 16 087 066 80, 98 039 185 80, 98 017 283 80, 16 926 604 80, 16 545 126 80, 98 378 139 80, 16 108 705 80, 98 176 651 80, 16 088 876 80, 98 089 611 80, 98 025 959 80, 96 758 741 80, 98 468 823 80",
+      "price": 3850.00,
+      "sale_price": 3465.00,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 10,
+      "in_stock_qty": 3,
+      "category": "engine",
+      "search_keywords": "water pump timing belt kit skf vkmc 03306-1 vkmc033061 vkma033062 vkpc83103 1609587680 9817643380 kit distributie pompa apa peugeot 208 308 408 508 2008 3008 5008 partner rifter 1.2 puretech thp premium engine piese motor pompa de apa",
+      "images": ["https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F50%2F406%2F21%2Fvkmc_03306-1.jpg?1"],
+      "manufacturer": "SKF",
+      "manufacturer_details": "SKF, Sven Wingquists Gata 2, Göteborg, 415 50, SE, +46 31 337 10 00, www.vehicleaftermarket.skf.com",
+      "main_specifications": {
+        "Belts": "With rounded tooth profile",
+        "Belt Width [mm]": "15.9",
+        "Belt Material": "PTFE (polytetrafluoroethylene)",
+        "Number of Teeth": "118",
+        "Water Pump Type": "For V-ribbed belt use",
+        "Supplementary Article": "With gaskets/seals",
+        "Colour": "White"
+      },
+      "other_specifications": {
+        "EAN": "7316582072094",
+        "Brand class": "Premium",
+        "Trade numbers": "VKMA 03306-2, VKMV 3SK576, VKPC 83103",
+        "Application": "Belt in Oil system (curea distributie umeda cu pompa apa)"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 408",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot 5008",
+          "Peugeot Partner",
+          "Peugeot Rifter"
+        ],
+        "year": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP", "1.2 e-THP"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNV (EB2DTMD)", "HNZ (EB2DT)", "HNY (EB2DTS)", "HN05 (EB2ADTX)"],
+        "power_hp": ["110 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Gasket, cylinder head AJUSA 10250000",
+      "sku": "10250000",
+      "oe_number": "9814762880, SU001 A9600",
+      "price": 850.00,
+      "sale_price": 850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 5,
+      "category": "engine",
+      "search_keywords": "gasket cylinder head ajusa 10250000 garnitura chiuloasa peugeot 208 308 408 508 2008 3008 5008 partner rifter 1.2 puretech thp hnj hnn hnr price performance engine piese motor",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F139%2F491%2F42%2F10250000p01.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F139%2F490%2F22%2F10250000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F139%2F491%2F40%2F10250000d01.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F139%2F491%2F41%2F10250000d02.jpg?1"
+      ],
+      "manufacturer": "AJUSA",
+      "manufacturer_details": "AJUSA, P. Empresarial Ajusa, Ctra Ayora Km. 2.2, ALBACETE, 02006, ES, +34 - 967 21 62 12, ajusa@ajusa.es, www.ajusa.es",
+      "main_specifications": {
+        "Model": "MULTILAYER STEEL",
+        "Diameter [mm]": "76",
+        "Thickness [mm]": "0.75",
+        "Width [mm]": "253",
+        "Length [mm]": "354"
+      },
+      "other_specifications": {
+        "Brand class": "Price/Performance",
+        "Cross-References": "ELRING 500.480, VICTOR REINZ 61-10813-00"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 408",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot 5008",
+          "Peugeot Partner",
+          "Peugeot Rifter"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNJ (EB2ADTXM)", "HNN (EB2ADTX)", "HNR (EB2ADTXM)"],
+        "power_hp": ["130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Sealing Plug, oil sump VAICO V42-0682",
+      "sku": "V42-0682",
+      "oe_number": "0311 39, 0311 34, 9677476480",
+      "price": 85.00,
+      "sale_price": 85.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 25,
+      "category": "engine",
+      "search_keywords": "sealing plug oil sump vaico v42-0682 v420682 buson baie ulei garnitura peugeot 108 207 208 301 308 508 2008 3008 4008 5008 bipper boxer expert partner rcz rifter traveller 031139 031134 9677476480 original quality price performance engine piese motor",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv42-0682%2Fv42-0682_02.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv42-0682%2Fv42-0682_04.jpg?1"
+      ],
+      "manufacturer": "VAICO",
+      "manufacturer_details": "VIEROL AG, Karlstr.19, Oldenburg, 26123, DE, info@vierol.de",
+      "main_specifications": {
+        "Fitting Position": "Oil Sump",
+        "Thread Size": "M16",
+        "Thread Pitch [mm]": "1.5",
+        "Thread Length [mm]": "17",
+        "Spanner Size": "21",
+        "Bolt Head-/Nut Design": "Hexagon Socket"
+      },
+      "other_specifications": {
+        "Model": "Original VAICO Quality",
+        "EAN": "4046001875489",
+        "Surface": "Zinc-coated",
+        "Supplementary Article": "with seal ring",
+        "Required quantity": "1",
+        "Brand class": "Price/Performance",
+        "Cross-References": "CORTECO 220135S, ELRING 523.450, FEBI 180960, SWAG 33108027, TOPRAN 502 418"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 108",
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 301",
+          "Peugeot 308",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot 4008",
+          "Peugeot 5008",
+          "Peugeot Bipper",
+          "Peugeot Boxer",
+          "Peugeot Expert",
+          "Peugeot Partner",
+          "Peugeot RCZ",
+          "Peugeot Rifter",
+          "Peugeot Traveller"
+        ],
+        "year": [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.4 HDi", "1.6 HDi", "1.6 BlueHDi", "2.0 BlueHDi", "1.6 THP"],
+        "engine_type": ["Diesel", "Petrol"],
+        "engine_code": ["9HX (DV6ATED4)", "9HZ (DV6TED4)", "BHZ (DV6FC)", "AHX (DW10FCD)", "5GR (EP6FDTX)", "HNY (EB2DTS)"],
+        "power_hp": ["68 HP", "90 HP", "110 HP", "120 HP", "150 HP", "180 HP"]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Pressure Converter, exhaust control METZGER 0892930",
+      "sku": "0892930",
+      "oe_number": "98 073 961 80, 9807396180",
+      "price": 1420.00,
+      "sale_price": 1207.00,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 15,
+      "in_stock_qty": 4,
+      "category": "engine",
+      "search_keywords": "pressure converter exhaust control metzger 0892930 electrovalva turbo convertor presiune vacuum peugeot 208 308 508 2008 3008 5008 partner rifter 9807396180 1.2 puretech thp premium engine piese motor turbocharger parts",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fmetzger%2F0892930%2F0892930__1_.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fmetzger%2F0892930%2F0892930__2_.jpg?1"
+      ],
+      "manufacturer": "METZGER",
+      "manufacturer_details": "WERNER METZGER GMBH, Rita-Maiburg-Str. 33, Filderstadt, 70794, DE, +49 (0)711/160860, bestellung@metzger-autoteile.de, www.metzger-autoteile.de",
+      "main_specifications": {
+        "Valve Type": "Switch Valve",
+        "Operating Mode": "Electric-pneumatic",
+        "Voltage [V]": "12",
+        "Number of pins": "2",
+        "Connector Shape": "Oval",
+        "Number of connectors": "3"
+      },
+      "other_specifications": {
+        "Model": "OE-part",
+        "EAN": "4062101147196",
+        "Brand class": "Premium",
+        "Cross-References": "PIERBURG 7.02256.56.0, MEAT & DORIA 9365, ERA 555361, FAE 56017, VEMO V42-63-0021"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot 5008",
+          "Peugeot Partner",
+          "Peugeot Rifter"
+        ],
+        "year": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNZ (EB2DT)", "HNY (EB2DTS)", "HNV (EB2DTMD)", "HN05 (EB2ADTX)"],
+        "power_hp": ["110 HP", "130 HP", "131 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "6",
+      "name": "Brake Disc BOSCH 0 986 479 288",
+      "sku": "0 986 479 288",
+      "oe_number": "98 092 662 80, 4249 33, 4249 85, 4246 C0, 96 876 021 80, 4246 P5",
+      "price": 1150.00,
+      "sale_price": 977.50,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 15,
+      "in_stock_qty": 8,
+      "category": "brake-system",
+      "search_keywords": "brake disc bosch 0986479288 0986479288 disc frana fata ventilat peugeot 207 208 307 2008 3008 9809266280 premium brake system piese franare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F571%2F09%2F0986479288ph01whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F233%2F65%2F0986479288ph19whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F431%2F03%2F0986479288ph13whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F227%2F25%2F0986479288ph07whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F615%2F28%2F0986479288drfrwhco00mm.jpg?1"
+      ],
+      "manufacturer": "BOSCH",
+      "manufacturer_details": "Robert Bosch GmbH, Mobility Aftermarket, Auf der Breit 4, Karlsruhe, 76227, DE, www.bosch-automotive.com",
+      "main_specifications": {
+        "Fitting Position": "Front Axle",
+        "Brake Disc Type": "Vented",
+        "Outer Diameter [mm]": "302",
+        "Brake Disc Thickness [mm]": "26",
+        "Minimum thickness [mm]": "24.2",
+        "Height [mm]": "34.2",
+        "Number of Holes": "4"
+      },
+      "other_specifications": {
+        "EAN": "4047024303133, 4047024560680",
+        "Bolt Hole Circle Ø [mm]": "108",
+        "Centering Diameter [mm]": "66.02",
+        "Surface": "Oiled",
+        "Supplementary Article": "with bolts/screws",
+        "Fulfils ECE standard": "ECE-R90",
+        "Brand class": "Premium",
+        "Trade numbers": "BD1151",
+        "Cross-References": "ATE 24.0126-0140.1, BREMBO 09.9935.11, TRW DF4363, TEXTAR 92133203, ZIMMERMANN 180.3023.20"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 2008",
+          "Peugeot 3008"
+        ],
+        "year": [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+        "engine_badge": ["1.2 PureTech", "1.6 HDi", "1.6 BlueHDi", "1.6 VTi", "1.6 THP", "2.0 HDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HNZ (EB2DT)", "9HX (DV6ATED4)", "BHZ (DV6FC)", "5FS (EP6C)", "RHE (DW10CTED4)"],
+        "power_hp": ["90 HP", "110 HP", "120 HP", "130 HP", "150 HP"]
+      }
+    },
+    {
+      "id": "7",
+      "name": "Brake Pad Set, disc brake MEYLE 025 209 6117",
+      "sku": "025 209 6117",
+      "oe_number": "16 231 805 80, 16 168 726 80, 16 070 832 80, 4254 41, 4252 23, 4254 28, 16 092 528 80",
+      "price": 680.00,
+      "sale_price": 578.00,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 15,
+      "in_stock_qty": 12,
+      "category": "brake-system",
+      "search_keywords": "brake pad set disc brake meyle 0252096117 025 209 6117 plăcuțe frână spate meyle original trw peugeot 207 208 307 308 1007 2008 partner 1623180580 premium brake system piese franare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F144%2F030%2F95%2Ffs_0252096117_1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F144%2F030%2F96%2Fzs_0252096117_1.jpg?1"
+      ],
+      "manufacturer": "MEYLE",
+      "manufacturer_details": "MEYLE AG, Merkurring 111, Hamburg, 22143, DE, +49(0)40 / 67506-510, contact@meyle.com, www.meyle.com",
+      "main_specifications": {
+        "Fitting Position": "Rear Axle",
+        "Brake System": "TRW",
+        "Width [mm]": "87.1",
+        "Height [mm]": "52.8",
+        "Thickness [mm]": "17.2",
+        "Wear Warning Contact": "Not prepared for wear warning indicator"
+      },
+      "other_specifications": {
+        "Model": "MEYLE-ORIGINAL Quality",
+        "EAN": "4040074059890",
+        "Vehicle Equipment": "For vehicles with electric parking brake",
+        "For brake disc diameter [mm]": "249",
+        "Supplementary Article": "with accessories, with brake caliper screws",
+        "Trade numbers": "20961, 23554, MBP0057",
+        "Brand class": "Premium",
+        "Cross-References": "ATE 13.0460-2787.2, BOSCH 0986494514, BREMBO P85020, FERODO FDB1645, TRW GDB1330"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 308",
+          "Peugeot 1007",
+          "Peugeot 2008",
+          "Peugeot Partner"
+        ],
+        "year": [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.4 HDi", "1.6 HDi", "1.6 BlueHDi", "1.6 VTi", "1.6 THP"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HNZ (EB2DT)", "9HX (DV6ATED4)", "BHZ (DV6FC)", "5FS (EP6C)", "5GR (EP6FDTX)"],
+        "power_hp": ["68 HP", "82 HP", "92 HP", "110 HP", "120 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "8",
+      "name": "Brake Caliper ELSTOCK 82-3186",
+      "sku": "82-3186",
+      "oe_number": "1648035180, 16 480 351 80",
+      "price": 1950.00,
+      "sale_price": 1755.00,
+      "currency": "MDL",
+      "is_on_sale": true,
+      "discount_percentage": 10,
+      "in_stock_qty": 2,
+      "category": "brake-system",
+      "search_keywords": "brake caliper elstock 82-3186 823186 etrier frana fata stanga ate peugeot 208 peugeot 2008 1648035180 premium brake system piese franare etrier",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F226%2F133%2F17%2Fxr_06-29085.jpg?1"
+      ],
+      "manufacturer": "ELSTOCK",
+      "manufacturer_details": "Borg Automotive A/S, Elstock, Funder Dalgårdsvej 12, Silkeborg, 8600, DK, +45 86 80 11 77, info@borgautomotive.com, www.elstock.com",
+      "main_specifications": {
+        "Fitting Position": "Front Axle Left, in front of axle",
+        "Brake Caliper Type": "Floating Caliper, Brake Caliper (1 piston)",
+        "Piston Diameter [mm]": "57",
+        "Manufacturer Restriction": "ATE",
+        "Material": "Cast Iron",
+        "For brake disc diameter [mm]": "302"
+      },
+      "other_specifications": {
+        "EAN": "5704651078504",
+        "Paired article number": "83-3186",
+        "For brake disc thickness [mm]": "26",
+        "Brake Disc Type": "Vented",
+        "Net weight [kg]": "4.4",
+        "Brand class": "Premium",
+        "Cross-References": "BUDWEG CALIPER 345688, A.B.S. 425421, DRI 3116830, TMI BR009500"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008"
+        ],
+        "year": [2019, 2020, 2021],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "9",
+      "name": "Brake Master Cylinder METELLI 05-1273",
+      "sku": "05-1273",
+      "oe_number": "1643581380, 16 435 813 80",
+      "price": 1450.00,
+      "sale_price": 1450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "brake-system",
+      "search_keywords": "brake master cylinder metelli 051273 05-1273 pompa centrala frana peugeot 208 peugeot 2008 opel corsa citroen c4 trw 1643581380 brake system piese franare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F121%2F029%2F71%2F05-1273.jpg?1"
+      ],
+      "manufacturer": "METELLI",
+      "manufacturer_details": "METELLI S.P.A, Via Bonotto, 3/5, Cologne (BS), 25033, IT, +39 030 705711, metellispa@metellispa.it, www.metelligroup.it",
+      "main_specifications": {
+        "Brake System": "TRW",
+        "Diameter 1 [mm]": "23.81",
+        "Material": "Aluminium"
+      },
+      "other_specifications": {
+        "EAN": "8032747384015",
+        "Brand class": "Price/Performance",
+        "Cross-References": "CIFAM 202-1273, A.B.S. 41641, DELPHI LM80897, LPR 6413, fri.tech. PF1273, TRUSTING PF1273"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Citroën C4",
+          "Opel Corsa",
+          "Opel Mokka"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "10",
+      "name": "Pressure Sensor, brake booster FACET 10.3424",
+      "sku": "10.3424",
+      "oe_number": "98 053 872 80, 96 774 679 80, 96 777 837 80",
+      "price": 640.00,
+      "sale_price": 640.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 7,
+      "category": "brake-system",
+      "search_keywords": "pressure sensor brake booster facet 10.3424 103424 senzor presiune vacuum tulba frana peugeot 208 301 308 508 2008 3008 expert partner traveller hnn hnj hnr 9805387280 made in italy oe equivalent brake system piese franare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F159%2F004%2F15%2F10.3424-fa.jpg?1"
+      ],
+      "manufacturer": "FACET",
+      "manufacturer_details": "FACET, Corso Francia 329, COLLEGNO, (TO), 10093, IT, +39 011 4051555, sales@facet.it, www.facet.eu",
+      "main_specifications": {
+        "Vehicle Equipment": "For vehicles without start-stop function"
+      },
+      "other_specifications": {
+        "Model": "Made in Italy - OE Equivalent",
+        "EAN": "8012510303528",
+        "Trade numbers": "EPS 1.993.424, KW 493 424",
+        "Brand class": "Price/Performance",
+        "Cross-References": "MEAT & DORIA 829004, SIDAT 84.3047, VEMO V22-72-0177"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 301",
+          "Peugeot 308",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Peugeot Expert",
+          "Peugeot Partner",
+          "Peugeot Traveller"
+        ],
+        "year": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.6 HDi", "1.6 BlueHDi", "2.0 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HNN (EB2ADTX)", "HNJ (EB2ADTXM)", "HNR (EB2ADTXM)", "BHZ (DV6FC)", "AHX (DW10FCD)"],
+        "power_hp": ["92 HP", "100 HP", "120 HP", "130 HP", "150 HP"]
+      }
+    },
+    {
+      "id": "11",
+      "name": "Shock Absorber BILSTEIN 22-324658",
+      "sku": "22-324658",
+      "oe_number": "98 366 548 80, 98 366 546 80, 9836654880, 9836654680",
+      "price": 1650.00,
+      "sale_price": 1650.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "suspension-steering",
+      "search_keywords": "shock absorber bilstein 22-324658 22324658 amortizor fata dreapta peugeot 2008 gas pressure twin-tube suspension strut 9836654880 premium suspension piese suspensie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F16%2F038%2F38%2F22-324658_1.jpg?1"
+      ],
+      "manufacturer": "BILSTEIN",
+      "manufacturer_details": "ThyssenKrupp Bilstein GmbH, August-Bilstein-Straße 4, Ennepetal, 58256, DE, 02333-791 0, info@bilstein.de, www.bilstein.com",
+      "main_specifications": {
+        "Fitting Position": "Front Axle Right",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber Design": "Suspension Strut",
+        "Shock Absorber System": "Twin-Tube",
+        "Suspension": "For vehicles with standard suspension"
+      },
+      "other_specifications": {
+        "EAN": "4025258881238",
+        "Shock Absorber Mounting Type": "Top pin, Bottom Clamp",
+        "Paired article number": "22-320964",
+        "Brand class": "Premium",
+        "Cross-References": "MONROE G8676, KYB 3348151, AL-KO 314764"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "12",
+      "name": "Repair Kit, suspension strut support mount SACHS 803 443",
+      "sku": "803 443",
+      "oe_number": "98 382 071 80, 98 285 401 80, 9838207180, 9828540180",
+      "price": 580.00,
+      "sale_price": 580.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 6,
+      "category": "suspension-steering",
+      "search_keywords": "repair kit suspension strut support mount sachs 803 443 803443 flansa amortizor fata rulment peugeot 2008 opel mokka citroen c4 fiat 600e 9838207180 premium suspension piese suspensie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F32%2F127%2F74%2F0032803443.jpg?1"
+      ],
+      "manufacturer": "SACHS",
+      "manufacturer_details": "ZF Friedrichshafen AG, ZF Aftermarket, Obere Weiden 12, Schweinfurt Deutschland, 97424, DE, +49 9721- 475 60, info.zf-aftermarket@zf.com, www.zf.com/sachs",
+      "main_specifications": {
+        "Fitting Position": "Front Axle Left, Front Axle Right"
+      },
+      "other_specifications": {
+        "EAN": "4059923081159",
+        "Brand class": "Premium",
+        "Cross-References": "LEMFÖRDER 45011 01, BOGE 84 521 R"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Citroën C4",
+          "Opel Mokka",
+          "Fiat 600e",
+          "Abarth 600e"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "Electric"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZAE (Electric)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "13",
+      "name": "Suspension Spring SACHS 991 291",
+      "sku": "991 291",
+      "oe_number": "98 286 575 80, 98 286 576 80, 9828657580, 9828657680",
+      "price": 620.00,
+      "sale_price": 620.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "suspension-steering",
+      "search_keywords": "suspension spring sachs 991 291 991291 arc spirala fata peugeot 2008 opel mokka coil spring standard suspension constant wire diameter 9828657580 premium suspension piese suspensie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F32%2F282%2F11%2F0032991291.jpg?1"
+      ],
+      "manufacturer": "SACHS",
+      "manufacturer_details": "ZF Friedrichshafen AG, ZF Aftermarket, Obere Weiden 12, Schweinfurt Deutschland, 97424, DE, +49 9721- 475 60, info.zf-aftermarket@zf.com, www.zf.com/sachs",
+      "main_specifications": {
+        "Fitting Position": "Front Axle",
+        "Spring Design": "Coil spring with constant wire diameter",
+        "Diameter [mm]": "12",
+        "Outer Diameter [mm]": "150",
+        "Length [mm]": "368",
+        "Suspension": "For vehicles with standard suspension"
+      },
+      "other_specifications": {
+        "EAN": "4059923060734",
+        "Brand class": "Premium",
+        "Cross-References": "LESJÖFORS 4066868, EIBACH R22946, SPIDAN 55788, SUPLEX 24279"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Opel Mokka"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "14",
+      "name": "Ball Joint RTS 93-90521-056",
+      "sku": "93-90521-056",
+      "oe_number": "9824626780, 98 246 267 80",
+      "price": 320.00,
+      "sale_price": 320.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 5,
+      "category": "suspension-steering",
+      "search_keywords": "ball joint rts 93-90521-056 9390521056 pivot frana bascula fata stanga dreapta peugeot 208 peugeot 2008 opel corsa citroen c4 9824626780 suspension parts piese suspensie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F430%2F037%2F34%2F93-90521-056.jpg?1"
+      ],
+      "manufacturer": "RTS",
+      "manufacturer_details": "RTS S.A., Pol. Ind. Erramone A1-I, MENDARO, 20850, ES, 943755060, rts@rts-sa.es, www.rts-sa.com",
+      "main_specifications": {
+        "Fitting Position": "Front Axle Right, Lower, Front Axle Left",
+        "Outer Diameter 2 [mm]": "20"
+      },
+      "other_specifications": {
+        "EAN": "8435130381248",
+        "Weight [kg]": "0.569",
+        "Brand class": "Price/Performance",
+        "Cross-References": "LEMFÖRDER 43510 01, FEBI BILSTEIN 183617, MOOG OP-BJ-17607, SIDEM 53083, SWAG 33109089"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Citroën C4",
+          "Opel Corsa",
+          "Opel Mokka"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "Electric"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZAE (Electric)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "15",
+      "name": "Control Arm, wheel suspension VAICO V40-2316",
+      "sku": "V40-2316",
+      "oe_number": "9831682580, 98 316 825 80",
+      "price": 1450.00,
+      "sale_price": 1450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "suspension-steering",
+      "search_keywords": "control arm wheel suspension vaico v40-2316 v402316 bascula fata stanga jos peugeot 2008 opel mokka citroen c4 expert kits sheet steel cone size 20 9831682580 suspension parts piese suspensie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv40-2316%2Fv40-2316_02.jpg?1"
+      ],
+      "manufacturer": "VAICO",
+      "manufacturer_details": "VIEROL AG, Karlstr.19, Oldenburg, 26123, DE, info@vierol.de, www.vierol-shop.de",
+      "main_specifications": {
+        "Fitting Position": "Front Axle Left, Lower",
+        "Control/Trailing Arm Type": "Control Arm",
+        "Cone Size [mm]": "20",
+        "Material": "Sheet Steel"
+      },
+      "other_specifications": {
+        "EAN": "4062375417551",
+        "Model": "EXPERT KITS +",
+        "Supplementary Article/Supplementary Info 2": "with rubber mount, with ball joint",
+        "Paired article number": "V40-2317",
+        "Trade numbers": "VAV40-2316 - 98 316 825 80",
+        "Brand class": "Price/Performance",
+        "Cross-References": "LEMFÖRDER 45224 01, FEBI BILSTEIN 187796, MEYLE 11-16 050 0126, DELPHI TC4867, MONROE L28J20"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Citroën C4",
+          "Opel Mokka"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "Electric"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZAE (Electric)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "16",
+      "name": "Drive Shaft LÖBRO GKND12946",
+      "sku": "GKND12946",
+      "oe_number": "9825384180, 9828710380, 98 253 841 80, 98 287 103 80",
+      "price": 2450.00,
+      "sale_price": 2450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "transmission",
+      "search_keywords": "drive shaft lobro gknd12946 gkn automotive planetara stanga fata peugeot 2008 opel mokka ds3 crossback 9825384180 transmission parts piese transmisie planetare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F56%2F080%2F28%2Fgknd12946a.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F56%2F080%2F29%2Fgknd12946b.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F56%2F080%2F30%2Fgknd12946c.jpg?1"
+      ],
+      "manufacturer": "LÖBRO",
+      "manufacturer_details": "GKN Driveline Service GmbH, Junkersring 63, Troisdorf, 53844, DE, +49 (0) 2241 9381300, www.gknautomotive.com",
+      "main_specifications": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Length [mm]": "685",
+        "External Toothing wheel side": "25",
+        "External Toothing differential side": "37"
+      },
+      "other_specifications": {
+        "EAN": "4019064313649",
+        "Model": "GKN Automotive OE-Technology 52°",
+        "Seal Ring Diameter [mm]": "56",
+        "Wheel-sided joint diameter [mm]": "77",
+        "Transmission-sided joint diameter [mm]": "82",
+        "Thread Size": "M24x1.5",
+        "Length 2 [mm]": "59",
+        "Supplementary Article/Supplementary Info 2": "with nut",
+        "Brand class": "Premium"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Opel Mokka",
+          "DS DS"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP"]
+      }
+    },
+    {
+      "id": "17",
+      "name": "Parts Kit, automatic transmission oil change VAICO V20-4670",
+      "sku": "V20-4670",
+      "oe_number": "16 350 560 80, 1635056080, 83 22 2 413 477, 31 492 172",
+      "price": 2850.00,
+      "sale_price": 2850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "transmission",
+      "search_keywords": "parts kit automatic transmission oil change vaico v20-4670 v204670 kit schimb ulei cutie automata 8 trepte amn8 atn8 axn8 peugeot 2008 opel mokka bmw volvo mini 1635056080 transmission parts piese transmisie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv20-4670%2Fv20-4670_02.jpg?1"
+      ],
+      "manufacturer": "VAICO",
+      "manufacturer_details": "VIEROL AG, Karlstr.19, Oldenburg, 26123, DE, info@vierol.de, www.vierol-shop.de",
+      "main_specifications": {
+        "Transmission Type": "8-Speed Automatic Transmission",
+        "Transmission ID": "AMN8, ATN8, AXN8",
+        "Capacity [litre]": "5",
+        "Quantity Unit": "Set"
+      },
+      "other_specifications": {
+        "EAN": "4062375401246",
+        "Model": "EXPERT KITS +",
+        "Supplementary Article/Supplementary Info 2": "with seal ring, with oil quantity for standard oil change",
+        "Recommended change interval [km]": "80000",
+        "Recommended change interval [years]": "5",
+        "Brand class": "Price/Performance",
+        "Cross-References": "FEBI BILSTEIN 183413, SWAG 33 10 8952, LIQUI MOLY Top Tec ATF 1850"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C4",
+          "BMW 1",
+          "BMW X1",
+          "Volvo XC40"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "2.0 BlueHDi", "118i", "2.0 D3", "2.0 D4"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "B38A15A", "D4204T16"],
+        "power_hp": ["130 HP", "131 HP", "140 HP", "150 HP", "180 HP"]
+      }
+    },
+    {
+      "id": "18",
+      "name": "Oil Cooler, automatic transmission NRF 310061",
+      "sku": "310061",
+      "oe_number": "9807979380, 3648065, 39181736, 98 079 793 80",
+      "price": 1350.00,
+      "sale_price": 1350.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "transmission",
+      "search_keywords": "oil cooler automatic transmission nrf 310061 termoflot cutie automata racitor ulei peugeot 208 peugeot 2008 opel mokka water-cooled 9807979380 transmission parts piese transmisie racitoare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F205%2F052%2F24%2F310061_1500x1000_wm_001.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F205%2F052%2F25%2F310061_1500x1000_wm_002.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F205%2F052%2F27%2F310061_1500x1000_wm_004.jpg?1"
+      ],
+      "manufacturer": "NRF",
+      "manufacturer_details": "NRF B.V., Langenboomseweg 64, Mill, 5451 JM, NL, +31 485 476 476, info@nrf.eu, www.nrf.eu",
+      "main_specifications": {
+        "Cooling Type": "Water-cooled"
+      },
+      "other_specifications": {
+        "EAN": "8718042370808",
+        "Brand class": "Premium",
+        "Cross-References": "NISSENS 91123, AKS DASIS 066023N, FRIGAIR 7034008, KALE 354120, VEMO V42-60-0012, 4SEASONS 806010"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C3",
+          "Citroën C4",
+          "DS DS7"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "1.6 PureTech"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "5GF (EP6FDTMD)"],
+        "power_hp": ["100 HP", "130 HP", "131 HP", "180 HP"]
+      }
+    },
+    {
+      "id": "19",
+      "name": "Axle Nut, drive shaft TOPRAN 723 449",
+      "sku": "723 449",
+      "oe_number": "3297 33, 329733, 9403297339, SU001 A0978",
+      "price": 60.00,
+      "sale_price": 60.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 15,
+      "category": "transmission",
+      "search_keywords": "axle nut drive shaft topran 723 449 723449 piulita planetara fata m24 peugeot 206 207 208 307 308 508 2008 opel corsa mokka citroen c4 c5 external hexagon 329733 transmission parts piese transmisie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F301%2F086%2F96%2F132379.jpg?1"
+      ],
+      "manufacturer": "TOPRAN",
+      "manufacturer_details": "Hans Pries GmbH & Co. KG, Im Lekkerland 1, Ganderkesee, 27777, DE, +49-4222-9218-0, topran@pries.de, www.topran.de",
+      "main_specifications": {
+        "Fitting Position": "Front Axle",
+        "Bolt Head-/Nut Design": "External Hexagon",
+        "Thread Size": "M 24",
+        "Thread Pitch [mm]": "1.5"
+      },
+      "other_specifications": {
+        "EAN": "4062375401246",
+        "Bolt/Nut Version": "with collar",
+        "Surface": "Zink-nickel coated",
+        "Brand class": "Budget",
+        "Cross-References": "FEBI BILSTEIN 45450, SWAG 62 94 5450, BORG & BECK BHN205"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 206",
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 308",
+          "Peugeot 407",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C3",
+          "Citroën C4",
+          "Citroën C5"
+        ],
+        "year": [1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.4 HDi", "1.6 HDi", "2.0 HDi", "1.2 PureTech", "1.5 BlueHDi", "1.6 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["8HX (DV4TD)", "9HZ (DV6TED4)", "RHR (DW10BTED4)", "HN05 (EB2ADTX)", "YHZ (DV5RC)"],
+        "power_hp": ["68 HP", "110 HP", "130 HP", "136 HP"]
+      }
+    },
+    {
+      "id": "20",
+      "name": "Shaft Seal, differential ELRING 487.680",
+      "sku": "487.680",
+      "oe_number": "3121 63, 312163",
+      "price": 180.00,
+      "sale_price": 180.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 8,
+      "category": "transmission",
+      "search_keywords": "shaft seal differential elring 487.680 487680 simering planetara stanga cutie automata am6 at6 peugeot 208 308 508 2008 3008 citroen c4 c5 acm polyacrylate 312163 transmission parts piese transmisie simeringuri",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F10%2F194%2F33%2F04876800ez0000_00.jpg?1"
+      ],
+      "manufacturer": "ELRING",
+      "manufacturer_details": "ElringKlinger AG, Max-Eyth-Straße 2, Dettingen/Erms, Deutschland/Germany, 72581, DE, +49 7123 724 799, Service@elring.de, www.elring.de",
+      "main_specifications": {
+        "Fitting Position": "Left, Front Axle",
+        "Transmission Type": "6-Speed Automatic Transmission",
+        "Transmission Code": "AM6, AT6",
+        "Inner Diameter [mm]": "40",
+        "Outer Diameter [mm]": "63",
+        "Height [mm]": "8.5"
+      },
+      "other_specifications": {
+        "EAN": "4041248834923",
+        "Radial Shaft Seal Design": "AS",
+        "Swirl Type": "Left-hand Twist",
+        "Material": "ACM (Polyacrylate)",
+        "Dust Cover": "with dust lip",
+        "Brand class": "Premium",
+        "Cross-References": "CORTECO 19026317B, TRICLO 671917"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 308",
+          "Peugeot 407",
+          "Peugeot 508",
+          "Peugeot 2008",
+          "Peugeot 3008",
+          "Citroën C3",
+          "Citroën C4",
+          "Citroën C5"
+        ],
+        "year": [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["2.0 HDi", "2.0 BlueHDi", "1.6 THP", "1.2 PureTech"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["RHR (DW10BTED4)", "AHX (DW10FCD)", "5FV (EP6CDT)", "HN05 (EB2ADTX)"],
+        "power_hp": ["130 HP", "136 HP", "150 HP", "156 HP", "163 HP", "180 HP"]
+      }
+    },
+    {
+      "id": "21",
+      "name": "Alternator STARDAX STX102310R",
+      "sku": "STX102310R",
+      "oe_number": "98 356 889 80, 16 754 542 80, 9835688980, 1675454280",
+      "price": 2850.00,
+      "sale_price": 2850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "electrical-system",
+      "search_keywords": "alternator stardax stx102310r generator incarcare 150a 12v freewheel belt pulley peugeot 2008 opel mokka citroen c4 jeep avenger 9835688980 electrical system piese electrice alternatoare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F6382%2F025%2F94%2Fstx102310r__1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F6382%2F025%2F95%2Fstx102310r__2.jpg?1"
+      ],
+      "manufacturer": "STARDAX",
+      "manufacturer_details": "LAUBER Sp. Z o.o, Poznanska 64, Slupsk, 76-200, PL, +48 59 848 11 36, lauber@lauber.pl, www.stardax.eu",
+      "main_specifications": {
+        "Alternator Charging Current [A]": "150",
+        "Voltage [V]": "12",
+        "Pulleys": "With freewheel belt pulley",
+        "Number of ribs": "6",
+        "Belt Pulley Ø [mm]": "54"
+      },
+      "other_specifications": {
+        "EAN": "7901004816785",
+        "Construction Year from": "202106",
+        "Vehicle Main Current": "for vehicles with 12V main current",
+        "Clamp": "M8 B+",
+        "Plug Type ID": "COM/LIN2A",
+        "Net weight [kg]": "5.8",
+        "Brand class": "Budget",
+        "Cross-References": "DENSO 104211-7142, VALEO FG15T171, ELSTOCK 28-8744, LUCAS LRA04635, DRI 2291581502, FEBI BILSTEIN 183413"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Opel Mokka",
+          "Opel Astra",
+          "Citroën C4",
+          "Citroën C5",
+          "Jeep Avenger",
+          "DS DS"
+        ],
+        "year": [2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 MHEV", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel", "Mild Hybrid"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "EB2LTED"],
+        "power_hp": ["100 HP", "130 HP", "136 HP"]
+      }
+    },
+    {
+      "id": "22",
+      "name": "Alternator STARDAX STX110266R",
+      "sku": "STX110266R",
+      "oe_number": "9820893880, 1610815380, 1627651980, 9678178280, 3640951, 95524683, 95526496",
+      "price": 2750.00,
+      "sale_price": 2750.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "electrical-system",
+      "search_keywords": "alternator stardax stx110266r generator incarcare 150a 14v peugeot 208 peugeot 2008 opel corsa opel grandland citroen c3 citroen c4 9820893880 1610815380 electrical system piese electrice alternatoare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F6382%2F029%2F22%2Fstx110266r__2.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F6382%2F029%2F23%2Fstx110266r__3.jpg?1"
+      ],
+      "manufacturer": "STARDAX",
+      "manufacturer_details": "LAUBER Sp. Z o.o, Poznanska 64, Slupsk, 76-200, PL, +48 59 848 11 36, lauber@lauber.pl, www.stardax.eu",
+      "main_specifications": {
+        "Alternator Charging Current [A]": "150",
+        "Voltage [V]": "14",
+        "Pulleys": "with belt pulley",
+        "Number of ribs": "6",
+        "Belt Pulley Ø [mm]": "54.3"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Cross-References": "VALEO FG15T092, ELSTOCK 287611, AS-PL A6471, MAGNETI MARELLI 063377586010, DELCO REMY DRA1292"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Opel Corsa",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4"
+        ],
+        "year": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.6 BlueHDi", "1.5 BlueHDi", "1.2 PureTech"],
+        "engine_type": ["Diesel", "Petrol"],
+        "engine_code": ["BHZ (DV6FC)", "YHZ (DV5RC)", "HN05 (EB2ADTX)"],
+        "power_hp": ["100 HP", "120 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "23",
+      "name": "Spark Plug CHAMPION OE245",
+      "sku": "OE245",
+      "oe_number": "9816317880, 9833253880, 9833964280, 12120040551, 12120041666, 35 53 466",
+      "price": 165.00,
+      "sale_price": 165.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 12,
+      "category": "electrical-system",
+      "search_keywords": "spark plug champion oe245 bujie incandescenta aprindere iridium peugeot 208 peugeot 2008 opel mokka bmw x1 320i mini cooper citroen c4 1.2 puretech b38 9816317880 electrical system piese electrice bujii",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F43%2F110%2F57%2Foe245_1645607.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F43%2F110%2F56%2Foe245_1645597.jpg?1"
+      ],
+      "manufacturer": "CHAMPION",
+      "manufacturer_details": "CHAMPION (DRiV), Prins Boudewijnlaan 5, Kontich, B-2550, info@driv.com, www.federal-mogul.com",
+      "main_specifications": {
+        "Model": "IRIDIUM",
+        "Spark Plug": "1 - Earthed Electrode, with gasket seat, Iridium Middle Electrode",
+        "Electrode Gap [mm]": "0.8",
+        "Thread Size": "M12x1.25",
+        "Thread Length [mm]": "25.5",
+        "Spanner Size": "14 mm Bi-Hex"
+      },
+      "other_specifications": {
+        "EAN": "4044197989812",
+        "Version": "Copper Gasket",
+        "Technical Information Number": "RERX4ZWYPB-1",
+        "Connector type": "HS 6,4",
+        "Resistor from [kOhm]": "3",
+        "Resistor to [kOhm]": "9",
+        "Tightening torque from [Nm]": "20",
+        "Tightening torque to [Nm]": "25",
+        "Trade numbers": "RERX4ZWYPB",
+        "Brand class": "Price/Performance",
+        "Cross-References": "BOSCH ZR6SI332, NGK ILZKGR7B8G, BERU Z366"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C3",
+          "Citroën C4",
+          "BMW 1",
+          "BMW 3",
+          "BMW X1",
+          "MINI MINI"
+        ],
+        "year": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP", "118i", "320i", "Cooper"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HN05 (EB2ADTX)", "HNY (EB2DTS)", "B38A15A", "B48B20A"],
+        "power_hp": ["110 HP", "130 HP", "136 HP", "140 HP", "184 HP"]
+      }
+    },
+    {
+      "id": "24",
+      "name": "Starter AS-PL S0568",
+      "sku": "S0568",
+      "oe_number": "1638135680, 5802AR, 5802EV, 5802M2, 1609870380, 12417582309, 12417552105",
+      "price": 1450.00,
+      "sale_price": 1450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "electrical-system",
+      "search_keywords": "starter as-pl s0568 s0568 electromotor pornire 12v 0.9kw peugeot 207 208 308 2008 opel mokka corsa mini cooper citroen c3 c4 1.4 1.6 vti thp prince engine 5802ar electrical system piese electrice electromotoare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4843%2F235%2F22%2F94292.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4843%2F235%2F23%2F94293.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4843%2F235%2F24%2F94294.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4843%2F235%2F25%2F94295.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4843%2F235%2F26%2Fs0568_256953.jpg?1"
+      ],
+      "manufacturer": "AS-PL",
+      "manufacturer_details": "AS-PL Sp. z o.o., Michalki 32, Gdańsk, 80-716, PL, +48 58 304 12 85, sales@as-pl.com, www.as-pl.com",
+      "main_specifications": {
+        "Rated Power [kW]": "0.9",
+        "Voltage [V]": "12",
+        "Number of Teeth": "10",
+        "Rotation Direction": "Clockwise rotation",
+        "Number of mounting bores": "4"
+      },
+      "other_specifications": {
+        "EAN": "5902129028055",
+        "Model": "Brand new | AS-PL | Starters | 0001106405",
+        "Manufacturer Restriction": "BOSCH",
+        "Quality": "STANDARD LINE",
+        "Brand class": "Price/Performance",
+        "Cross-References": "BOSCH 0001106405, VALEO 458654, HELLA 8EA012528-511, MAGNETI MARELLI 063521064050, ELSTOCK 25-3450"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C3",
+          "Citroën C4",
+          "MINI MINI"
+        ],
+        "year": [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+        "engine_badge": ["1.4 VTi", "1.6 VTi", "1.6 THP", "Cooper", "One"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["EP3 (8FS)", "EP6 (5FW)", "EP6CDT (5FV)", "N12B14A", "N12B16A"],
+        "power_hp": ["95 HP", "120 HP", "150 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "25",
+      "name": "Ignition Coil HOFFER 8010880",
+      "sku": "8010880",
+      "oe_number": "9808653680, 9850921980, 98 086 536 80, 3553459, 0028457918",
+      "price": 650.00,
+      "sale_price": 650.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 6,
+      "category": "electrical-system",
+      "search_keywords": "ignition coil hoffer 8010880 bobina inductie aprindere 3 pini peugeot 208 peugeot 2008 opel mokka corsa citroen c3 c4 puretech 1.2 hoffer meat doria 9808653680 electrical system piese electrice bobine",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F341%2F482%2F19%2F10880.jpg?1"
+      ],
+      "manufacturer": "HOFFER",
+      "manufacturer_details": "HOFFER, Emanuele Petri 8, Trofarello, Torino, 10028, IT, +39 (0) 11 9614301, info@hoffer-products.com, hoffer-products.com",
+      "main_specifications": {
+        "Number of pins": "3",
+        "For OE number": "9808653680"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Cross-References": "DELPHI GN11140-12B1, NGK 49549, HELLA 5DA 358 290-651, MEAT & DORIA 10880, VEMO V24-70-0018, METZGER 0880573"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Crossland",
+          "Citroën C3",
+          "Citroën C4",
+          "DS DS"
+        ],
+        "year": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP", "1.2 VTi"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HN05 (EB2ADTX)", "HNY (EB2DTS)", "HM05 (EB2F)"],
+        "power_hp": ["82 HP", "110 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "26",
+      "name": "Water Pump SKF VKPC 83103",
+      "sku": "VKPC 83103",
+      "oe_number": "98 378 139 80, 98 030 943 80, 9846882380, 3639881, SU001 A9350",
+      "price": 1150.00,
+      "sale_price": 1150.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 5,
+      "category": "cooling-system",
+      "search_keywords": "water pump skf vkpc 83103 vkpc83103 pompa apa motor garnitura prezoane peugeot 2008 peugeot 308 opel mokka corsa citroen c3 c4 bluehdi 1.5 dv5 9837813980 cooling system piese racire pompe apa",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F50%2F285%2F10%2Fvkpc_83103.jpg?1"
+      ],
+      "manufacturer": "SKF",
+      "manufacturer_details": "SKF, Sven Wingquists Gata 2, Göteborg, 415 50, SE, +46 31 337 10 00, www.vehicleaftermarket.skf.com",
+      "main_specifications": {
+        "Water Pump Type": "for V-ribbed belt use",
+        "Supplementary Article/Supplementary Info": "with gaskets/seals",
+        "Supplementary Article/Supplementary Info 2": "with studs"
+      },
+      "other_specifications": {
+        "EAN": "7316577222268",
+        "Brand class": "Premium",
+        "Cross-References": "HEPU P909, INA 538 0713 10, FEBI BILSTEIN 104154, DAYCO DP2174, DOLZ C152, METELLI 24-1274"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "Toyota Proace"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.5 BlueHDi", "1.5 CDTi", "1.5 D"],
+        "engine_type": ["Diesel"],
+        "engine_code": ["YHZ (DV5RC)", "YHY (DV5RD)", "YHX (DV5RE)"],
+        "power_hp": ["100 HP", "120 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "27",
+      "name": "Charge Air Cooler NISSENS 961318",
+      "sku": "961318",
+      "oe_number": "9824742280, 98 247 422 80",
+      "price": 1850.00,
+      "sale_price": 1850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "cooling-system",
+      "search_keywords": "charge air cooler nissens 961318 intercooler radiator aer supraalimentare aluminiu peugeot 2008 peugeot 208 opel mokka corsa fiat 600 jeep avenger alfa romeo junior 1.2 puretech mhev 9824742280 cooling system piese racire intercoolere",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F123%2F429%2F11%2Fnissens_i961318.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F123%2F429%2F12%2Fnissens_i961318-1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F123%2F429%2F13%2Fnissens_i961318-2.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F123%2F429%2F14%2Fnissens_i961318-3.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F123%2F429%2F15%2Fnissens_961318.jpg?1"
+      ],
+      "manufacturer": "NISSENS",
+      "manufacturer_details": "NISSENS AUTOMOTIVE A/S, Ormhojgaardvej 9, Horsens, 8700, DK, +45 7626 2626, nissens@nissens.com, www.nissens.com",
+      "main_specifications": {
+        "Cooling Type": "Air-cooled",
+        "Core Length [mm]": "328",
+        "Core Width [mm]": "187",
+        "Core Depth [mm]": "64",
+        "Cooling fins material": "Aluminium",
+        "Water Tank Material (radiator)": "Plastic"
+      },
+      "other_specifications": {
+        "EAN": "5707286543119",
+        "Model": "FIRST FIT",
+        "Radiator type": "Brazed cooling fins",
+        "Supplementary Article/Supplementary Info": "with gaskets/seals, Left connector, angled, Right connector, angled",
+        "Supplementary Article/Supplementary Info 2": "without quick coupling",
+        "Brand class": "Premium",
+        "Cross-References": "NRF 309130, AKS DASIS 067027N, MAGNETI MARELLI 351319206080, VAN WEZEL 40014703"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Peugeot 208",
+          "Opel Mokka",
+          "Opel Corsa",
+          "Opel Frontera",
+          "Jeep Avenger",
+          "Fiat 600e",
+          "Alfa Romeo Junior",
+          "Citroën C3",
+          "Citroën C4",
+          "DS DS"
+        ],
+        "year": [2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 MHEV", "1.2 Hybrid"],
+        "engine_type": ["Petrol", "Mild Hybrid"],
+        "engine_code": ["EB2LTED", "EB2GEN3WGL", "HN05 (EB2ADTX)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP"]
+      }
+    },
+    {
+      "id": "28",
+      "name": "Thermostat, coolant MOTORAD 1258-97K",
+      "sku": "1258-97K",
+      "oe_number": "9812131480, 3553499, 98 121 314 80",
+      "price": 1250.00,
+      "sale_price": 1250.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "cooling-system",
+      "search_keywords": "thermostat coolant motorad 1258-97k 125897k termostat carcasa plastic 97 grade peugeot 2008 opel mokka jeep avenger citroen c4 1.2 puretech 9812131480 cooling system piese racire termostate",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F21%2F1258-97-3.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F22%2F1258-97-2.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F23%2F1258-97-1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F24%2F1258-97-5.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F25%2F1258-97-6.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F26%2F1258-97-7.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F388%2F005%2F27%2F1258-97-4.jpg?1"
+      ],
+      "manufacturer": "MOTORAD",
+      "manufacturer_details": "MotoRad GmbH, Max Planck Str. 6, Erftstadt, 50374, DE, +49-2235-430447, info@motorad-eu.de, www.motorad.com",
+      "main_specifications": {
+        "Opening Temperature [°C]": "97",
+        "Housing Type": "with housing",
+        "Housing material": "Plastic",
+        "Supplementary Article/Supplementary Info 2": "with seal ring"
+      },
+      "other_specifications": {
+        "For OE number": "3553499",
+        "Brand class": "Premium",
+        "Cross-References": "GATES TH69397G1, TRISCAN 8620 55197, BIRTH 81847, TRICLO 460313"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Peugeot 208",
+          "Peugeot 308",
+          "Opel Mokka",
+          "Opel Corsa",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "Jeep Avenger",
+          "Fiat 600e",
+          "DS DS"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 MHEV", "1.2 Turbo"],
+        "engine_type": ["Petrol", "Mild Hybrid"],
+        "engine_code": ["HN05 (EB2ADTX)", "EB2LTED", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP"]
+      }
+    },
+    {
+      "id": "29",
+      "name": "Oil Cooler, engine oil VEMO V22-60-0046",
+      "sku": "V22-60-0046",
+      "oe_number": "9815697880, 9807656980, 3553445, 3639898, 9839253380",
+      "price": 1450.00,
+      "sale_price": 1450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "cooling-system",
+      "search_keywords": "oil cooler engine oil vemo v22-60-0046 v22600046 termoflot racitor ulei garnitura peugeot 308 peugeot 2008 citroen c4 opel grandland corsa 1.5 bluehdi dv5 9815697880 cooling system piese racire racitoare ulei",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvemo%2Fv22-60-0046%2Fv22-60-0046_02.jpg?1"
+      ],
+      "manufacturer": "VEMO",
+      "manufacturer_details": "VIEROL AG, Karlstr.19, Oldenburg, 26123, info@vierol.de, www.vierol-shop.de",
+      "main_specifications": {
+        "Model": "Original VEMO Quality",
+        "Supplementary Article/Supplementary Info": "with gasket/seal"
+      },
+      "other_specifications": {
+        "EAN": "4062375137473",
+        "Brand class": "Premium",
+        "Cross-References": "NISSENS 90968, NRF 31790, MAHLE CLC 273 000S, PIERBURG 7.09269.97.0, MEAT & DORIA 95299, AKS DASIS 066015N"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Peugeot 208",
+          "Peugeot 3008",
+          "Peugeot 5008",
+          "Opel Grandland",
+          "Opel Corsa",
+          "Opel Crossland",
+          "Citroën C4",
+          "Citroën C3",
+          "DS DS7"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.5 BlueHDi", "1.5 CDTi", "1.5 D"],
+        "engine_type": ["Diesel"],
+        "engine_code": ["YHZ (DV5RC)", "YHY (DV5RD)", "YHX (DV5RE)"],
+        "power_hp": ["102 HP", "120 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "30",
+      "name": "Radiator, engine cooling NRF 550336",
+      "sku": "550336",
+      "oe_number": "9825333380, 1663937880, 98 253 333 80",
+      "price": 1650.00,
+      "sale_price": 1650.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 6,
+      "category": "cooling-system",
+      "search_keywords": "radiator engine cooling nrf 550336 550336 radiator racire motor aluminiu peugeot 2008 peugeot 208 opel mokka corsa jeep avenger citroen c3 1.2 puretech 9825333380 cooling system piese racire radiatoare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F205%2F000%2F67%2Fradiatorcores.jpg?1"
+      ],
+      "manufacturer": "NRF",
+      "manufacturer_details": "NRF B.V., Langenboomseweg 64, Mill, 5451 JM, NL, +31 485 476 476, info@nrf.eu, http://www.nrf.eu",
+      "main_specifications": {
+        "Core Length [mm]": "538",
+        "Core Width [mm]": "380",
+        "Core Depth [mm]": "16",
+        "Material": "Aluminium",
+        "Radiator type": "Brazed cooling fins"
+      },
+      "other_specifications": {
+        "EAN": "8718042404343",
+        "Brand class": "Premium",
+        "Cross-References": "DENSO DRM21107, VAN WEZEL 40012703, AKS DASIS 150156N"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008",
+          "Peugeot 208",
+          "Opel Mokka",
+          "Opel Corsa",
+          "Jeep Avenger",
+          "Citroën C3"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 Turbo", "1.2 VTi"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HN05 (EB2ADTX)", "HNK (EB2ADTD)", "HM05 (EB2FMD)"],
+        "power_hp": ["75 HP", "100 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "31",
+      "name": "Seal Kit, injector nozzle AJUSA 77011200",
+      "sku": "77011200",
+      "oe_number": "1654505180, 1611718680, 1637833380, 95528030, 3645947, 12665136, SU001 B2107",
+      "price": 280.00,
+      "sale_price": 280.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 10,
+      "category": "fuel-system",
+      "search_keywords": "seal kit injector nozzle ajusa 77011200 77011200 set garnituri saibe injector injectoare benzina peugeot 208 peugeot 2008 opel mokka corsa citroen c4 1.2 puretech hnn eb2adtx fuel system piese alimentare",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F139%2F466%2F60%2F77011200.jpg?1"
+      ],
+      "manufacturer": "AJUSA",
+      "manufacturer_details": "AJUSA, P. Empresarial Ajusa, Ctra Ayora Km. 2.2, ALBACETE, 02006, ES, +34 - 967 21 62 12, ajusa@ajusa.es, www.ajusa.es",
+      "main_specifications": {
+        "TecDoc Engine Number": "HNN (EB2ADTX), HNR (EB2ADTXM), HNJ (EB2ADTXM)"
+      },
+      "other_specifications": {
+        "EAN": "8433577400102",
+        "Brand class": "Price/Performance",
+        "Cross-References": "ELRING 642.520"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "Jeep Avenger",
+          "DS DS"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 Direct Injection Turbo", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)", "HNR (EB2ADTXM)", "HNJ (EB2ADTXM)"],
+        "power_hp": ["130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "32",
+      "name": "Fuel Feed Unit PIERBURG 7.07795.67.0",
+      "sku": "7.07795.67.0",
+      "oe_number": "9842660580, 9842578680, 9839248180, 1674217480, 1674217680, 9809355480, 9845424080",
+      "price": 3150.00,
+      "sale_price": 3150.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "fuel-system",
+      "search_keywords": "fuel feed unit pierburg 7.07795.67.0 pompa benzina ansamblu alimentare electrica 12v peugeot 208 peugeot 2008 opel mokka corsa citroen c4 1.2 puretech hnj hnn hnr 9842660580 fuel system piese alimentare pompe combustibil",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5%2F040%2F11%2F7.07795.67.0z_main1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5%2F030%2F26%2F7.07795.67.0z_pic1.jpg?1"
+      ],
+      "manufacturer": "PIERBURG",
+      "manufacturer_details": "MS Motorservice International GmbH, Wilhelm-Maybach-Straße 14-18, Neuenstadt am Kocher, 74196, +49 (0)7139 9376-333, info@ms-motorservice.com, www.ms-motorservice.com",
+      "main_specifications": {
+        "Operating Mode": "Electric",
+        "Voltage [V]": "12",
+        "Pressure [bar]": "5.2",
+        "Diameter [mm]": "107.4",
+        "Number of connectors": "1"
+      },
+      "other_specifications": {
+        "EAN": "4028977985706",
+        "Pressure [psi]": "75.5",
+        "Current Strength to [A]": "7.3",
+        "TecDoc Engine Number": "HNJ (EB2ADTXM), HNN (EB2ADTX), HNR (EB2ADTXM)",
+        "Production date from": "10.05.2021",
+        "for RPO number from": "16254",
+        "Vehicle Equipment": "for vehicles with internal fuel filter",
+        "Brand class": "Premium",
+        "Cross-References": "MEAT & DORIA 771146, HOFFER 75071146, SIDAT 73076, FISPA 73076"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 508",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Citroën C4",
+          "DS DS7"
+        ],
+        "year": [2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 Turbo", "1.2 THP"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)", "HNJ (EB2ADTXM)", "HNR (EB2ADTXM)"],
+        "power_hp": ["130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "33",
+      "name": "Cap, fuel tank 3RG 65203",
+      "sku": "65203",
+      "oe_number": "9816741980, 9813349780, 9687552880, 9829895080, 1508N7, 3549928",
+      "price": 180.00,
+      "sale_price": 180.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 8,
+      "category": "fuel-system",
+      "search_keywords": "cap fuel tank 3rg 65203 65203 buson rezervor combustibil benzina motorina peugeot 208 308 2008 opel corsa mokka citroen c3 c4 hdi puretech 1508n7 fuel system piese alimentare busoane rezervor",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4598%2F094%2F22%2F65203.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4598%2F094%2F23%2F65203--1.jpg?1"
+      ],
+      "manufacturer": "3RG",
+      "manufacturer_details": "3RG INDUSTRIAL AUTO, S.L., P.I. Las Avetardas - C/Feldespato, 31-32, Yeles - Toledo - Spain, Toledo, 45220, +34 925 54 59 16, 3rg@3rgindustrial.com, www.3rgindustrial.com",
+      "main_specifications": {
+        "Outer Diameter [mm]": "72"
+      },
+      "other_specifications": {
+        "EAN": "8433819063126",
+        "Brand class": "Price/Performance",
+        "Cross-References": "MOTORAD MGC950"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "Toyota Proace"
+        ],
+        "year": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "1.6 BlueHDi", "1.2 Turbo", "1.6 THP"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HM01 (EB2F)", "HN05 (EB2ADTX)", "YHZ (DV5RC)", "BHZ (DV6FC)", "5G06 (EP6FDTM)"],
+        "power_hp": ["68 HP", "82 HP", "100 HP", "120 HP", "130 HP", "165 HP"]
+      }
+    },
+    {
+      "id": "34",
+      "name": "High Pressure Pump MAGNETI MARELLI 805010000290",
+      "sku": "805010000290",
+      "oe_number": "9819061280, 98 190 612 80",
+      "price": 5450.00,
+      "sale_price": 5450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "fuel-system",
+      "search_keywords": "high pressure pump magneti marelli 805010000290 pompa inalta presiune hpfp gdi benzina injectie directa peugeot 208 308 2008 opel corsa mokka grandland citroen c3 c4 1.2 puretech thp hnn hnj hnr 9819061280 fuel system piese alimentare pompe inalta",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F95%2F130%2F68%2Fcif_php1029-wr.jpg?1"
+      ],
+      "manufacturer": "MAGNETI MARELLI",
+      "manufacturer_details": "MARELLI AFTERMARKET ITALY S.P.A., Viale Aldo Borletti 61/63, Corbetta (Milano), Italy, 20011, VA, (39) 02 97227 542, luigi.franzese@marelli.com, www.magnetimarelli-parts-and-services.it",
+      "main_specifications": {
+        "TecDoc Engine Number": "HNN (EB2ADTX), HNJ (EB2ADTXM), HNR (EB2ADTXM)"
+      },
+      "other_specifications": {
+        "EAN": "8050947140491",
+        "Trade numbers": "PHP1029",
+        "Brand class": "Premium",
+        "Cross-References": "DELPHI 28377613, MEAT & DORIA 78564, METZGER 2250586, SIDAT 74115, VEMO V22-25-0005"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 308",
+          "Peugeot 3008",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "DS DS"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)", "HNJ (EB2ADTXM)", "HNR (EB2ADTXM)"],
+        "power_hp": ["130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "35",
+      "name": "Breather Valve, fuel tank METZGER 2250640",
+      "sku": "2250640",
+      "oe_number": "9802009480, 98 020 094 80, 3553526",
+      "price": 420.00,
+      "sale_price": 420.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "fuel-system",
+      "search_keywords": "breather valve fuel tank metzger 2250640 2250640 supapa purjare canistra carbon aerisire rezervor solenoid 2 pini peugeot 208 peugeot 2008 opel mokka corsa citroen c3 c4 1.2 puretech 9802009480 fuel system piese alimentare supape",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F94%2F673%2F61%2F2250640_1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F94%2F673%2F60%2F2250640_2.jpg?1"
+      ],
+      "manufacturer": "METZGER",
+      "manufacturer_details": "WERNER METZGER GMBH, Rita-Maiburg-Str. 33, Filderstadt, 70794, DE, +49 (0)711/160860, bestellung@metzger-autoteile.de, www.metzger-autoteile.de",
+      "main_specifications": {
+        "Valve Type": "Solenoid Valve",
+        "Number of pins": "2",
+        "Number of connectors": "2",
+        "Supplementary Article/Supplementary Info 2": "without connection line"
+      },
+      "other_specifications": {
+        "EAN": "4062101250292",
+        "Model": "OE-part",
+        "Brand class": "Price/Performance",
+        "Cross-References": "MAGNETI MARELLI 806000000027, MEAT & DORIA 99060, SIDAT 81.702, FISPA 81.702"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208",
+          "Peugeot 2008",
+          "Peugeot 508",
+          "Opel Corsa",
+          "Opel Mokka",
+          "Opel Grandland",
+          "Citroën C3",
+          "Citroën C4",
+          "DS DS"
+        ],
+        "year": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.2 THP", "1.2 VTi", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HN05 (EB2ADTX)", "HNY (EB2DTS)", "HM05 (EB2F)"],
+        "power_hp": ["82 HP", "110 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "36",
+      "name": "Sidewall VAN WEZEL 9901149",
+      "sku": "9901149",
+      "oe_number": "9600590",
+      "price": 380.00,
+      "sale_price": 380.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "body-parts",
+      "search_keywords": "sidewall van wezel 9901149 9901149 contraaripa reparatie universal aripa spate latime roti zincata klokkerholm 9600590 body parts piese caroserie elemente reparatie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F36%2F338%2F56%2Fi9901149.jpg?1"
+      ],
+      "manufacturer": "VAN WEZEL",
+      "manufacturer_details": "VAN WEZEL, INDUSTRIEPARK 33, TIENEN, 3300, BE, 0032 (0)16 820101, info@vanwezel.be, www.vanwezel.be",
+      "main_specifications": {
+        "Fitting Position": "Left, Right",
+        "Panel Type": "Wheel Arch Border",
+        "Section": "Outer section",
+        "Fit": "Universal",
+        "Length 1 [mm]": "1250",
+        "Width 1 [mm]": "50",
+        "Sheet Strength [mm]": "0.7",
+        "Height 1 [mm]": "20"
+      },
+      "other_specifications": {
+        "EAN": "5410909419929",
+        "Machining": "Can be shortened",
+        "Quality/ Grade": "DC01 ST12",
+        "Surface": "Zinc-coated",
+        "Repair Panel": "Repair Panel",
+        "Number of Doors": "2/4, 3/5",
+        "Brand class": "Budget",
+        "Cross-References": "KLOKKERHOLM 9600590, DIEDERICHS 9920031, SCHLIECKMANN 111590"
+      },
+      "compatibility": {
+        "car_model": [
+          "Opel Kadett",
+          "Peugeot 106",
+          "Audi 80",
+          "Audi 90",
+          "Lada Niva",
+          "Lada Samara",
+          "Fiat 127",
+          "VW Kafer",
+          "Toyota Corolla"
+        ],
+        "year": [1980, 1985, 1990, 1995, 2000],
+        "engine_badge": ["Universal Fit / Repair Panel"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["Universal"],
+        "power_hp": ["Any HP"]
+      }
+    },
+    {
+      "id": "37",
+      "name": "Bumper PRASCO PG5041164",
+      "sku": "PG5041164",
+      "oe_number": "983855131T, 98 385 513 1T",
+      "price": 850.00,
+      "sale_price": 850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "body-parts",
+      "search_keywords": "bumper prasco pg5041164 pg5041164 bara protectie spate stanga colt amorsata cu gauri senzori parcare pdc peugeot 2008 983855131t body parts piese caroserie bare protectie",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F340%2F231%2F08%2Fpg5041164.jpg?1"
+      ],
+      "manufacturer": "PRASCO",
+      "manufacturer_details": "PRASCO GmbH, Nikolaus-Dürrkopp-Straße 3, Ahlen, 59227, DE, +49 02382 77550 55, info@prasco.de, www.prasco.de",
+      "main_specifications": {
+        "Fitting Position": "Left Rear",
+        "Surface": "Primed",
+        "Supplementary Article/Supplementary Info": "with sensor holder",
+        "Machined": "with hole(s) for park distance control"
+      },
+      "other_specifications": {
+        "EAN": "8033533650727",
+        "Brand class": "Price/Performance",
+        "Cross-References": "KLOKKERHOLM 5544963, JUMASA 27433579",
+        "Legal Notice": "Aftermarket replacement part intended for repair purposes only."
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "e-2008"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZK01 (ZK01)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "38",
+      "name": "Ventilation Grille, bumper BLIC 6502-07-5017912P",
+      "sku": "6502-07-5017912P",
+      "oe_number": "9825953780, 98 259 537 80",
+      "price": 240.00,
+      "sale_price": 240.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 5,
+      "category": "body-parts",
+      "search_keywords": "ventilation grille bumper blic 6502-07-5017912p 6502075017912p grila ventilatie bara fata stanga dreapta peugeot 2008 9825953780 body parts piese caroserie grile bara",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4555%2F518%2F93%2F6502-07-5017912p__1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4555%2F518%2F94%2F6502-07-5017912p__2.jpg?1"
+      ],
+      "manufacturer": "BLIC",
+      "manufacturer_details": "INTER CARS S.A., Polen, www.blic.intercars.eu",
+      "main_specifications": {
+        "Fitting Position": "Left Front, Right Front",
+        "Production date from": "06.2019"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Legal Notice": "Aftermarket replacement part intended for repair purposes only."
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "e-2008"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZK01 (ZK01)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "39",
+      "name": "Engine Cover PRASCO PG5042102",
+      "sku": "PG5042102",
+      "oe_number": "9838455280, 98 384 552 80",
+      "price": 680.00,
+      "sale_price": 680.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "body-parts",
+      "search_keywords": "engine cover prasco pg5042102 pg5042102 traversa superioara plastic masca radiator deflector aer peugeot 2008 slam panel trager 9838455280 body parts piese caroserie elemente fata",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F340%2F262%2F93%2Fpg5042102.jpg?1"
+      ],
+      "manufacturer": "PRASCO",
+      "manufacturer_details": "PRASCO GmbH, Nikolaus-Dürrkopp-Straße 3, Ahlen, 59227, DE, +49 02382 77550 55, info@prasco.de, www.prasco.de",
+      "main_specifications": {
+        "Panel Type": "Slam Panel",
+        "Material": "Plastic"
+      },
+      "other_specifications": {
+        "EAN": "8033533650840",
+        "Brand class": "Price/Performance",
+        "Legal Notice": "Aftermarket replacement part intended for repair purposes only."
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "e-2008"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZK01 (ZK01)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "40",
+      "name": "Exterior Mirror BLIC 5402-08-2262311P",
+      "sku": "5402-08-2262311P",
+      "oe_number": "98271323XT, 98 271 323 XT",
+      "price": 1850.00,
+      "sale_price": 1850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "body-parts",
+      "search_keywords": "exterior mirror blic 5402-08-2262311P 5402082262311p oglinda exterioara dreapta electrica incalzita convexa cu semnalizare amorsata peugeot 2008 98271323xt body parts piese caroserie oglinzi complete",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4555%2F077%2F47%2F5402-08-2262311p__1.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4555%2F077%2F48%2F5402-08-2262311p__2.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4555%2F077%2F49%2F5402-08-2262311p__3.jpg?1"
+      ],
+      "manufacturer": "BLIC",
+      "manufacturer_details": "INTER CARS S.A., Polen, www.blic.intercars.eu",
+      "main_specifications": {
+        "Fitting Position": "Right",
+        "Operating Mode": "Electric",
+        "Exterior/Interior Mirror": "Heated, Convex",
+        "Light Function": "with indicator",
+        "Surface": "Primed"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Legal Notice": "Aftermarket replacement part intended for repair purposes only."
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "e-2008"],
+        "engine_type": ["Petrol", "Diesel", "Electric"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZK01 (ZK01)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "41",
+      "name": "Reflex Reflector STERNHAMMAR 587408",
+      "sku": "587408",
+      "oe_number": "",
+      "price": 85.00,
+      "sale_price": 85.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 12,
+      "category": "lighting",
+      "search_keywords": "reflex reflector sternhammar 587408 587408 ochi de pisica reflectorizant portocaliu remorca camion universal orange truck trailer lighting elemente optice",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2F_default_upload_bucket%2F21744981.jpg?1"
+      ],
+      "manufacturer": "STERNHAMMAR",
+      "manufacturer_details": "Abileer AB, Skjutbanevägen 6, SE 703 84 Örebro, SWEDEN, order@sternhammar.se",
+      "main_specifications": {
+        "Color": "Orange",
+        "Width [mm]": "94",
+        "Height [mm]": "44.5"
+      },
+      "other_specifications": {
+        "EAN": "733211712859",
+        "Brand class": "Price/Performance",
+        "Application": "Universal for trucks, trailers, and commercial vehicles"
+      },
+      "compatibility": {
+        "car_model": [
+          "Universal Fit"
+        ],
+        "year": [1990, 1995, 2000, 2005, 2010, 2015, 2020, 2025, 2026],
+        "engine_badge": ["Universal"],
+        "engine_type": ["Any"],
+        "engine_code": ["Universal"],
+        "power_hp": ["Any HP"]
+      }
+    },
+    {
+      "id": "42",
+      "name": "Headlight VALEO 450872",
+      "sku": "450872",
+      "oe_number": "9823194080, 98 231 940 80",
+      "price": 4250.00,
+      "sale_price": 4250.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "lighting",
+      "search_keywords": "headlight valeo 450872 450872 far stanga halogen bec clasic trafic dreapta peugeot 208 peugeot 2008 9823194080 lighting elemente optice faruri",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F21%2F715%2F47%2Fheadlamp_450872_01.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F21%2F715%2F48%2Fheadlamp_450872_02.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F21%2F715%2F49%2Fheadlamp_450872_03.jpg?1"
+      ],
+      "manufacturer": "VALEO",
+      "manufacturer_details": "Valeo Service, 70 Rue Pleyel, Saint-Denis cedex, 93285, FR, +33 1 49 45 32 32, www.valeoservice.com",
+      "main_specifications": {
+        "Fitting Position": "Left",
+        "Light Design": "Bulb Technology",
+        "Left-hand/Right-hand Traffic": "for right-hand traffic"
+      },
+      "other_specifications": {
+        "EAN": "3276424508720",
+        "Supplementary Article/Supplementary Info": "with original trademark",
+        "Paired article number": "450873",
+        "Weight [kg]": "3.74",
+        "Brand class": "Premium"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208 II",
+          "Peugeot 2008 II"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "HM05 (EB2F)"],
+        "power_hp": ["75 HP", "100 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "43",
+      "name": "Rear Fog Light TYC 19-15395-05-2",
+      "sku": "19-15395-05-2",
+      "oe_number": "9811718380, 98 117 183 80",
+      "price": 320.00,
+      "sale_price": 320.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 6,
+      "category": "lighting",
+      "search_keywords": "rear fog light tyc 19-15395-05-2 1915395052 stop ceata spate dreapta lampa ceata bara p21w peugeot 2008 3008 citroen c5 9811718380 lighting elemente optice lampi ceata",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F61%2F105%2F74%2F19-15395-05-2.jpg?1"
+      ],
+      "manufacturer": "TYC",
+      "manufacturer_details": "TYC EUROPE B.V., Rondebeltweg 92, Almere, 1329BG, +31 (0)36-5307188, INFO@TYCEUROPE.COM, https://www.tyceurope.com",
+      "main_specifications": {
+        "Fitting Position": "Right",
+        "Lamp Type": "P21W",
+        "Registration Type": "ECE approved"
+      },
+      "other_specifications": {
+        "EAN": "8717475125993",
+        "Brand class": "Budget"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 3008 II",
+          "Citroën C5 Aircross"
+        ],
+        "year": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "1.6 BlueHDi", "2.0 BlueHDi", "1.6 PureTech Hybrid"],
+        "engine_type": ["Petrol", "Diesel", "Hybrid"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "BHZ (DV6FC)", "EHZ (DW10FC)", "5GB (EP6FDTMD)"],
+        "power_hp": ["100 HP", "130 HP", "120 HP", "180 HP", "225 HP"]
+      }
+    },
+    {
+      "id": "44",
+      "name": "Bulb, spotlight OSRAM 66340CBB-2HB",
+      "sku": "66340CBB-2HB",
+      "oe_number": "",
+      "price": 2450.00,
+      "sale_price": 2450.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "lighting",
+      "search_keywords": "bulb spotlight osram 66340cbb-2hb 66340cbb bec xenon d3s cool blue boost 7000k descarcare gaz pk32d-5 xenon auto tuning lumina alba albastra",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F67%2F014%2F19%2F66340cbb_2hb_g15128580_vb.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F67%2F012%2F39%2F3800390_ab.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F67%2F011%2F58%2F4641953_d1_3_8s_td.jpg?1"
+      ],
+      "manufacturer": "OSRAM",
+      "manufacturer_details": "OSRAM, Marcel-Breuer-Straße 6, München, 80807, DE",
+      "main_specifications": {
+        "Model": "XENARC® COOL BLUE BOOST",
+        "Lamp Type": "Gas Discharge Lamp (Xenon / D3S)",
+        "Voltage [V]": "42",
+        "Rated Power [W]": "35",
+        "Socket Type bulb": "PK32d-5",
+        "Colour Temperature [K]": "7000"
+      },
+      "other_specifications": {
+        "EAN": "4062172404181",
+        "Container Type": "Box",
+        "Quantity": "2 (Duobox)",
+        "Brand class": "Premium",
+        "Legal Notice": "Off-road only / No ECE approval for public road use due to high color temperature"
+      },
+      "compatibility": {
+        "car_model": [
+          "Audi A3",
+          "Audi A4",
+          "Audi A6",
+          "VW Golf VII",
+          "VW Passat B8",
+          "Skoda Octavia III",
+          "Volvo XC60"
+        ],
+        "year": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+        "engine_badge": ["D3S Headlight Systems"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["Universal D3S application"],
+        "power_hp": ["Any HP"]
+      }
+    },
+    {
+      "id": "45",
+      "name": "Daytime Running Lights EINPARTS DUOLIGHT DL32",
+      "sku": "DUOLIGHT DL32",
+      "oe_number": "",
+      "price": 1650.00,
+      "sale_price": 1650.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "lighting",
+      "search_keywords": "daytime running lights einparts duolight dl32 duolightdl32 lumini de zi proiectoare ceata led set universal jeep grand cherokee drl fog light combo 6000k cool white",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FCatalog%2FProduct%2FEINPARTS%2FDUOLIGHT%20DL32%2Fb32_duolight_dl32-2.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FCatalog%2FProduct%2FEINPARTS%2FDUOLIGHT%20DL32%2Fb32_duolight_dl32-3.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FCatalog%2FProduct%2FEINPARTS%2FDUOLIGHT%20DL32%2Fb32_duolight_dl32-1.jpg?1"
+      ],
+      "manufacturer": "EINPARTS",
+      "manufacturer_details": "EINPARTS EUROPE SP. Z O.O., Wierzbowa 1, PL, 29010, Wągrowiec, info@einparts.eu",
+      "main_specifications": {
+        "Voltage [V]": "12",
+        "Power [W]": "10",
+        "Color temperature [K]": "6000",
+        "Light color": "Cool white",
+        "Brightness [lm]": "900",
+        "Diameter [mm]": "120"
+      },
+      "other_specifications": {
+        "Brand class": "Price/Performance",
+        "Functionality": "Combined DRL (Daytime Running Light) and LED Fog Light system"
+      },
+      "compatibility": {
+        "car_model": [
+          "Jeep Grand Cherokee IV (WK2)"
+        ],
+        "year": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+        "engine_badge": ["3.0 CRD", "3.6 V6 VVT", "5.7 V8 Hemi", "6.4 V8 SRT"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["EXF", "ERB", "EZH", "ESG"],
+        "power_hp": ["190 HP", "241 HP", "250 HP", "286 HP", "352 HP", "468 HP"]
+      }
+    },
+    {
+      "id": "46",
+      "name": "Oil Filter FEBI BILSTEIN 32223",
+      "sku": "32223",
+      "oe_number": "1109.AL, 1109AL",
+      "price": 115.00,
+      "sale_price": 115.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 25,
+      "category": "filters",
+      "search_keywords": "oil filter febi bilstein 32223 32223 filtru ulei peugeot 206 207 208 307 308 2008 citroen c3 c4 c5 berlingo dacia lada niva suzuki vitara toyota aygo mann w712/8 purflux ls867b 1109.al consumabile intretinere",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Ffebi_bilstein%2F32223%2F32223_1.jpg?1"
+      ],
+      "manufacturer": "FEBI BILSTEIN",
+      "manufacturer_details": "Ferdinand Bilstein GmbH + Co KG, Wilhelmstraße 47, Ennepetal, 58256, DE, +49-(0)2333-911-0, info@febi.com, www.bilsteingroup.com",
+      "main_specifications": {
+        "Filter type": "Spin-on Filter",
+        "Housing material": "Sheet Steel",
+        "Height [mm]": "86",
+        "Outer Diameter [mm]": "77",
+        "Internal Thread Size": "M20 x 1,5"
+      },
+      "other_specifications": {
+        "EAN": "4027816322238",
+        "Brand class": "Premium",
+        "Cross-References": "MANN-FILTER W 712/8, PURFLUX LS867B, BOSCH 0 451 103 299, FILTRON OP 540/1, KNECHT OC 503, WIX WL7086"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 206",
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Citroën C3",
+          "Citroën C4",
+          "Citroën Berlingo",
+          "Lada Niva",
+          "Suzuki Vitara",
+          "Toyota Aygo"
+        ],
+        "year": [1995, 2000, 2005, 2010, 2015, 2020, 2025, 2026],
+        "engine_badge": ["1.1 i", "1.4 i", "1.6 16V", "1.4 HDi", "1.6 HDi", "1.7 i (Lada)"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["KFX (TU3JP)", "NFU (TU5JP4)", "8HZ (DV4TD)", "9HX (DV6ATED4)", "BA3 21214"],
+        "power_hp": ["60 HP", "75 HP", "80 HP", "90 HP", "109 HP"]
+      }
+    },
+    {
+      "id": "47",
+      "name": "Oil Filter VAICO V42-0905",
+      "sku": "V42-0905",
+      "oe_number": "9814560680, 98 145 606 80, 1624797780",
+      "price": 125.00,
+      "sale_price": 125.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 18,
+      "category": "filters",
+      "search_keywords": "oil filter vaico v42-0905 v420905 filtru ulei element filtrare cartus peugeot 208 308 508 2008 3008 citroen c3 c4 c5 berlingo ford focus kuga opel combo grandland 1.5 bluehdi ecoblue 9814560680 hu7032z ox1237d consumabile intretinere",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv42-0905%2Fv42-0905_02.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Fvaico%2Fv42-0905%2Fv42-0905_04.jpg?1"
+      ],
+      "manufacturer": "VAICO",
+      "manufacturer_details": "VIEROL AG, Karlstr.19, Oldenburg, 26123, DE, info@vierol.de, www.vierol-shop.de",
+      "main_specifications": {
+        "Filter type": "Filter Insert",
+        "Model": "Original VAICO Quality",
+        "Height [mm]": "75",
+        "Outer Diameter [mm]": "64",
+        "Inner Diameter [mm]": "24",
+        "Inner Diameter 1 [mm]": "31",
+        "Supplementary Article/Supplementary Info": "with gaskets/seals"
+      },
+      "other_specifications": {
+        "EAN": "4062375220557",
+        "Brand class": "Price/Performance",
+        "Cross-References": "MANN-FILTER HU 7032 z, MAHLE OX 1237D, FEBI BILSTEIN 106371, WIX FILTERS WL7555, BOSCH F 026 407 299"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Citroën C3 III",
+          "Citroën Berlingo III",
+          "Ford Focus IV",
+          "Ford Kuga III",
+          "Opel Combo E",
+          "Opel Grandland X"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.5 BlueHDi", "1.5 EcoBlue"],
+        "engine_type": ["Diesel"],
+        "engine_code": ["YHZ (DV5RC)", "YHY (DV5RD)", "ZTDA", "Z2DA"],
+        "power_hp": ["100 HP", "102 HP", "120 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "48",
+      "name": "Air Filter K&N Filters 33-3039",
+      "sku": "33-3039",
+      "oe_number": "9802348680, 1612145880",
+      "price": 1350.00,
+      "sale_price": 1350.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "filters",
+      "search_keywords": "air filter k&n filters 33-3039 333039 filtru aer sport lavabil panel bumbac peugeot 208 308 2008 3008 citroen c3 c4 berlingo opel corsa mokka grandland 1.2 puretech turbo panel filter permanent consumabile sport",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F305%2F039%2F42%2F33-3039.jpg?1"
+      ],
+      "manufacturer": "K&N Filters",
+      "manufacturer_details": "SRM B.V., Verdunplein 6, 5627 SZ, Eindhoven, Netherlands, eindhoven.tech@knfilters.com",
+      "main_specifications": {
+        "Filter type": "Long-life Filter / Washable Cotton",
+        "Shape": "Square / Panel",
+        "Length [mm]": "349",
+        "Width [mm]": "135",
+        "Height [mm]": "30",
+        "Vehicle type": "Turbo"
+      },
+      "other_specifications": {
+        "EAN": "0024844361943",
+        "Brand class": "Premium",
+        "Features": "Reusable, pre-oiled, high-flow lifetime performance air filter"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Citroën C3 III",
+          "Citroën C4 Cactus",
+          "Opel Corsa F",
+          "Opel Mokka B",
+          "Opel Grandland X",
+          "Fiat 600"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech Turbo", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HN05 (EB2ADTX)", "HNS (EB2ADTS)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "49",
+      "name": "Filter, interior air BOSCH 0 986 628 568",
+      "sku": "0 986 628 568",
+      "oe_number": "1642340380, 1632342280",
+      "price": 380.00,
+      "sale_price": 380.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 14,
+      "category": "filters",
+      "search_keywords": "filter interior air bosch 0 986 628 568 0986628568 filtru habitaclu polen bafle filter+pro carbon activ antibacterian antialergic peugeot 208 2008 opel corsa mokka jeep avenger fiat 600 set 2 bucati fp26010-2 consumabile",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F361%2F94%2F0986628568ph01whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F957%2F05%2F0986628568ph07whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F247%2F11%2F0986628568ph13whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F789%2F29%2F0986628568ph19whco0000.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F30%2F319%2F67%2F0986628568phanwhco00mm.jpg?1"
+      ],
+      "manufacturer": "BOSCH",
+      "manufacturer_details": "Robert Bosch GmbH, Mobility Aftermarket, Auf der Breit 4, Karlsruhe, 76227, DE, www.bosch-automotive.com",
+      "main_specifications": {
+        "Filter type": "Activated Carbon Filter, with antibacterial, anti-allergic, antiviral, and fungicidal action",
+        "Model": "FILTER+pro",
+        "Length [mm]": "255",
+        "Width [mm]": "84",
+        "Height [mm]": "30",
+        "Quantity": "2",
+        "Particle Separation Rate": ">98% for 2.5µm (fine matter)"
+      },
+      "other_specifications": {
+        "EAN": "4047026534016",
+        "Trade numbers": "A 8568",
+        "Basic version (Art. No.)": "1 987 435 149",
+        "Version with active carbon (Art. No.)": "1 987 435 608",
+        "Brand class": "Premium",
+        "Construction Year to": "12.2023"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 208 II",
+          "Opel Corsa F",
+          "Opel Mokka B",
+          "Jeep Avenger",
+          "Fiat 600e",
+          "Citroën C4 III",
+          "Lancia Ypsilon III",
+          "Alfa Romeo Junior"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023],
+        "engine_badge": ["1.2 PureTech", "1.5 BlueHDi", "e-2008", "EV", "1.2 Hybrid"],
+        "engine_type": ["Petrol", "Diesel", "Electric", "Hybrid"],
+        "engine_code": ["HN05 (EB2ADTX)", "YHZ (DV5RC)", "ZK01 (ZK01)"],
+        "power_hp": ["100 HP", "130 HP", "136 HP", "156 HP"]
+      }
+    },
+    {
+      "id": "50",
+      "name": "Fuel filter FEBI BILSTEIN 32399",
+      "sku": "32399",
+      "oe_number": "1567.C6, 1567C6, 7700845961, 6001546326",
+      "price": 95.00,
+      "sale_price": 95.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 42,
+      "category": "filters",
+      "search_keywords": "fuel filter febi bilstein 32399 32399 filtru combustibil benzina inline plastic peugeot 206 207 208 2008 renault clio megane logan sandero dacia duster wk613 pp831 consumabile intretinere alimentatare benzina",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Ffebi_bilstein%2F32399%2F32399_1.jpg?1"
+      ],
+      "manufacturer": "FEBI BILSTEIN",
+      "manufacturer_details": "Ferdinand Bilstein GmbH + Co KG, Wilhelmstraße 47, Ennepetal, 58256, DE, +49-(0)2333-911-0, info@febi.com, www.bilsteingroup.com",
+      "main_specifications": {
+        "Filter type": "In-Line Filter",
+        "Housing material": "Plastic",
+        "Height [mm]": "143",
+        "Outer Diameter [mm]": "62",
+        "Pipe Diameter [mm]": "8"
+      },
+      "other_specifications": {
+        "EAN": "4027816323990",
+        "Brand class": "Premium",
+        "Cross-References": "MANN-FILTER WK 613, FILTRON PP 831, PURFLUX EP202, BOSCH 0 450 905 287, MAHLE KL 72, CHAMPION CFF100201"
+      },
+      "compatibility": {
+        "car_model": [
+          "Dacia Logan I",
+          "Dacia Sandero I",
+          "Dacia Duster I",
+          "Peugeot 206",
+          "Peugeot 207",
+          "Peugeot 208 I",
+          "Peugeot 2008 I",
+          "Renault Clio II",
+          "Renault Megane II",
+          "Smart Fortwo"
+        ],
+        "year": [1998, 2002, 2006, 2010, 2014, 2018, 2022],
+        "engine_badge": ["1.2 16V", "1.4 MPI", "1.6 16V", "2.0 16V", "1.4 i", "1.6 i"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["K7M 710", "K4M 690", "D4F 732", "KFX (TU3JP)", "NFU (TU5JP4)"],
+        "power_hp": ["75 HP", "90 HP", "105 HP", "110 HP", "135 HP"]
+      }
+    },
+    {
+      "id": "51",
+      "name": "Shaft Seal, manual transmission TOPRAN 722 336",
+      "sku": "722 336",
+      "oe_number": "2109 40, 210940, 9614067080, 3645728",
+      "price": 65.00,
+      "sale_price": 65.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 8,
+      "category": "clutch",
+      "search_keywords": "shaft seal manual transmission topran 722 336 722336 simering ax priza cutie viteze manuala ambreiaj peugeot 208 308 2008 citroen c3 c4 berlingo opel corsa mokka mb6dw mb6gw 2109.40 corteco 07015547b",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F301%2F191%2F19%2F81083.jpg?1"
+      ],
+      "manufacturer": "TOPRAN",
+      "manufacturer_details": "Hans Pries GmbH & Co. KG, Im Lekkerland 1, Ganderkesee, 27777, DE, +49-4222-9218-0, topran@pries.de, www.topran.de",
+      "main_specifications": {
+        "Inner Diameter [mm]": "23",
+        "Outer Diameter [mm]": "36",
+        "Height 1 [mm]": "6",
+        "Height 2 [mm]": "7",
+        "Material": "NBR (nitrile butadiene rubber)",
+        "Swirl Type": "Right-hand Twist"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Transmission ID": "MB6DW, MB6GW",
+        "Cross-References": "CORTECO 07015547B, ELRING 131.860, PAYEN NA5449"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Citroën C3 III",
+          "Citroën Berlingo III",
+          "Opel Corsa F",
+          "Opel Mokka B"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNJ (EB2ADTXM)", "HNN (EB2ADTX)"],
+        "power_hp": ["130 HP"]
+      }
+    },
+    {
+      "id": "52",
+      "name": "Guide Tube, clutch TOPRAN 722 154",
+      "sku": "722 154",
+      "oe_number": "2105 35, 210535, 9629860480, 3645729",
+      "price": 145.00,
+      "sale_price": 145.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 5,
+      "category": "clutch",
+      "search_keywords": "guide tube clutch topran 722 154 722154 bucsa ghidaj rulment presiune ambreiaj tub ghidaj peugeot 208 308 2008 citroen c3 c4 berlingo opel corsa mokka cutie mb6 luft 414023510 sachs 3114600001",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F301%2F050%2F19%2F115986.jpg?1"
+      ],
+      "manufacturer": "TOPRAN",
+      "manufacturer_details": "Hans Pries GmbH & Co. KG, Im Lekkerland 1, Ganderkesee, 27777, DE, +49-4222-9218-0, topran@pries.de, www.topran.de",
+      "main_specifications": {
+        "Housing material": "Sheet Steel",
+        "For OE number": "2105 35 / 9629860480"
+      },
+      "other_specifications": {
+        "Brand class": "Budget",
+        "Transmission ID": "MB6",
+        "Cross-References": "LuK 414 0235 10, SACHS 3114 600 001, FEBI BILSTEIN 46008, SWAG 70946008, CORTECO 20034710B"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 2008 II",
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Citroën C3 III",
+          "Citroën Berlingo III",
+          "Opel Corsa F",
+          "Opel Mokka B"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.2 Turbo"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNJ (EB2ADTXM)", "HNN (EB2ADTX)"],
+        "power_hp": ["130 HP"]
+      }
+    },
+    {
+      "id": "53",
+      "name": "Guide Tube, clutch ORIGINAL IMPERIUM 41209",
+      "sku": "41209",
+      "oe_number": "9629860480, 2105 35, 2105 22, 3645729",
+      "price": 130.00,
+      "sale_price": 130.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 7,
+      "category": "clutch",
+      "search_keywords": "guide tube clutch original imperium 41209 tub ghidaj rulment presiune ambreiaj bucsa cutie viteze peugeot 206 207 208 307 308 2008 citroen c3 c4 berlingo xsara fiat scudo sachs 3114600001 febi 46008 topran 722154",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F331%2F234%2F90%2F41209.jpg?1"
+      ],
+      "manufacturer": "ORIGINAL IMPERIUM",
+      "manufacturer_details": "IMPERGOM S.R.L., Strada Stupinigi 101, Orbassano, Torino, 10043, IT, +39-011-9062111, p.fusco@impergom.it, www.impergom.it",
+      "main_specifications": {
+        "For OE number": "9629860480 / 2105 35",
+        "Weight [g]": "155"
+      },
+      "other_specifications": {
+        "EAN": "8049640591532",
+        "Brand class": "Price/Performance",
+        "Cross-References": "SACHS 3114 600 001, FEBI BILSTEIN 46008, SWAG 70 94 6008, TOPRAN 722 154, CORTECO 20034710B"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 206",
+          "Peugeot 207",
+          "Peugeot 208",
+          "Peugeot 307",
+          "Peugeot 308",
+          "Peugeot 2008",
+          "Citroën C3",
+          "Citroën C4",
+          "Citroën Berlingo",
+          "Opel Corsa F"
+        ],
+        "year": [1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+        "engine_badge": ["1.4 i", "1.6 16V", "1.4 HDi", "1.6 HDi", "1.2 PureTech"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["KFX (TU3JP)", "NFU (TU5JP4)", "8HZ (DV4TD)", "9HX (DV6ATED4)", "HN05 (EB2ADTX)"],
+        "power_hp": ["68 HP", "75 HP", "90 HP", "109 HP", "130 HP"]
+      }
+    },
+    {
+      "id": "54",
+      "name": "Screw Set, flywheel SACHS 1874 000 004",
+      "sku": "1874 000 004",
+      "oe_number": "2037 08, 203708, 9643596680, 3639953",
+      "price": 140.00,
+      "sale_price": 140.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 11,
+      "category": "clutch",
+      "search_keywords": "screw set flywheel sachs 1874 000 004 1874000004 set suruburi volanta masa dubla ambreiaj peugeot 308 508 3008 5008 citroen c4 c5 spacetourer opel grandland astra automatic 8-speed luk 411016610 2037.08",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F32%2F093%2F00%2F00321874000004.jpg?1"
+      ],
+      "manufacturer": "SACHS",
+      "manufacturer_details": "ZF Friedrichshafen AG, ZF Aftermarket, Obere Weiden 12, Schweinfurt Deutschland, 97424, +49 9721- 475 60, info.zf-aftermarket@zf.com, www.zf.com/sachs",
+      "main_specifications": {
+        "Thread Size": "6x M9x1,25x20,5",
+        "Transmission Type": "8-Speed Automatic Transmission"
+      },
+      "other_specifications": {
+        "EAN": "4013872493142",
+        "Brand class": "Premium",
+        "Warranty": "3 years warranty",
+        "Cross-References": "LuK 411 0166 10, LuK 411 0203 10"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 308 II",
+          "Peugeot 308 III",
+          "Peugeot 508 II",
+          "Peugeot 3008 II",
+          "Peugeot 5008 II",
+          "Peugeot 2008 II",
+          "Citroën C5 Aircross",
+          "Citroën Spacetourer",
+          "Opel Grandland X",
+          "Opel Astra L"
+        ],
+        "year": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.5 BlueHDi 130", "1.6 PureTech 180", "2.0 BlueHDi 180"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HNS (EB2ADTS)", "YHZ (DV5RC)", "5GF (EP6FDTMD)", "EHZ (DW10FC)"],
+        "power_hp": ["130 HP", "180 HP", "177 HP"]
+      }
+    },
+    {
+      "id": "55",
+      "name": "Cable Pull, manual transmission COFLE 92.2CB.PE032",
+      "sku": "92.2CB.PE032",
+      "oe_number": "9811778780",
+      "price": 850.00,
+      "sale_price": 850.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 3,
+      "category": "clutch",
+      "search_keywords": "cable pull manual transmission cofle 92.2cb.pe032 cablu schimbator viteze timonerie cutie manuala ambreiaj peugeot 208 301 2008 citroen c3 c4 mb6 double cable pull gear selector rods 9811778780",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F4871%2F006%2F87%2F2cb.pe032.jpg?1"
+      ],
+      "manufacturer": "COFLE",
+      "manufacturer_details": "COFLE s.p.a., Via del Ghezzo, 54, Trezzo sull'Adda (MI), 20056, 029201961, aftermarket5@cofle.it, www.cofle.com",
+      "main_specifications": {
+        "Supplementary Article/Supplementary Info": "Double Cable Pull",
+        "Transmission ID": "MB6",
+        "Length 1 [mm]": "907",
+        "Length 2 [mm]": "635",
+        "Length 3 [mm]": "858",
+        "Length 4 [mm]": "680",
+        "Version": "GEAR"
+      },
+      "other_specifications": {
+        "For OE number": "9811778780",
+        "Brand class": "Price/Performance",
+        "Transmission Type": "6-Speed Automatic Transmission"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208 I",
+          "Peugeot 2008 I",
+          "Peugeot 301",
+          "Citroën C3 III",
+          "Citroën C4 Cactus"
+        ],
+        "year": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+        "engine_badge": ["1.2 PureTech 110", "1.6 BlueHDi 100", "1.6 VTi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HNZ (EB2DT)", "BHY (DV6FD)", "NFP (EC5)"],
+        "power_hp": ["110 HP", "100 HP", "115 HP"]
+      }
+    },
+    {
+      "id": "56",
+      "name": "Centre/Rear Muffler DINEX 50371",
+      "sku": "50371",
+      "oe_number": "645 490 2001, 6454902001",
+      "price": 3250.00,
+      "sale_price": 3250.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 2,
+      "category": "exhaust-system",
+      "search_keywords": "centre rear muffler dinex 50371 toba esapament intermediara finala mercedes benz atego axor camion esapament sistem evacuare imasaf 856506 truck exhaust borges3800",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F233%2F144%2F04%2F50371.jpg?1"
+      ],
+      "manufacturer": "DINEX",
+      "manufacturer_details": "DINEX A/S, Fynsvej 39, Middelfart, 5500, DK, +45 6341 2500, dinex@dinex.dk, www.dinex.dk",
+      "main_specifications": {
+        "Length [mm]": "1120",
+        "Width [mm]": "470",
+        "Height [mm]": "310",
+        "Net weight [kg]": "30"
+      },
+      "other_specifications": {
+        "Brand class": "Price/Performance",
+        "Cross-References": "IMASAF 85 65 06, BORGES 3800, ZARA 9700"
+      },
+      "compatibility": {
+        "car_model": [
+          "Mercedes-Benz Atego I",
+          "Mercedes-Benz Atego II",
+          "Mercedes-Benz Axor"
+        ],
+        "year": [1998, 2004, 2010, 2015, 2020],
+        "engine_badge": ["4.2", "4.8", "6.4"],
+        "engine_type": ["Diesel"],
+        "engine_code": ["OM 904 LA", "OM 906 LA", "OM 924 LA"],
+        "power_hp": ["122 HP", "150 HP", "177 HP", "218 HP", "238 HP", "286 HP"]
+      }
+    },
+    {
+      "id": "57",
+      "name": "Exhaust Pipe NAP carPARTS CAC10720",
+      "sku": "CAC10720",
+      "oe_number": "982265880, 9822265880",
+      "price": 890.00,
+      "sale_price": 890.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 4,
+      "category": "exhaust-system",
+      "search_keywords": "exhaust pipe nap carparts cac10720 teava esapament fata racord flexibil evacuare peugeot 208 2008 opel corsa mokka citroen c4 fiat 600e bosal 700289 bm catalysts bm50995 hnn eb2adtx euro 6",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F800%2F76%2Fcac10720_01.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F804%2F83%2Fcac10720_02.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F808%2F90%2Fcac10720_03.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F812%2F97%2Fcac10720_04.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F816%2F82%2Fcac10720_05.jpg?1",
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F5637%2F820%2F67%2Fcac10720_06.jpg?1"
+      ],
+      "manufacturer": "NAP carPARTS",
+      "manufacturer_details": "NAP carPARTS GmbH, Otto-Hahn-Strasse 52-54, 48529 Nordhorn, GER, +5921 8588052, info@nap-carparts.com, https://www.nap-carparts.com/",
+      "main_specifications": {
+        "Fitting Position": "Front",
+        "Length [mm]": "555",
+        "Emission Standard": "Up to Euro 6"
+      },
+      "other_specifications": {
+        "EAN": "4064558068116",
+        "Brand class": "Premium",
+        "Cross-References": "BOSAL 700 289, BM CATALYSTS BM50995"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208 II",
+          "Peugeot 2008 II",
+          "Opel Corsa F",
+          "Opel Mokka B",
+          "Citroën C4 III",
+          "Fiat 600e"
+        ],
+        "year": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.2 Turbo 130"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)"],
+        "power_hp": ["130 HP"]
+      }
+    },
+    {
+      "id": "58",
+      "name": "Gasket, exhaust manifold REINZ 71-18242-00",
+      "sku": "71-18242-00",
+      "oe_number": "98 177 924 80, 9817792480, SU001 B0127",
+      "price": 245.00,
+      "sale_price": 245.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 16,
+      "category": "exhaust-system",
+      "search_keywords": "gasket exhaust manifold reinz 71-18242-00 711824200 garnitura galerie evacuare victor reinz metalica peugeot 208 308 2008 3008 citroen c3 c4 berlingo opel corsa mokka grandland 1.2 puretech turbo elring 797800",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F9%2F128%2F77%2F71-18242-00.jpg?1"
+      ],
+      "manufacturer": "REINZ",
+      "manufacturer_details": "Reinz Dichtungs GmbH, Dana Incorporated, Reinzstrasse 3- 7, Neu-Ulm, 89233, DE, 0731/7046-0, reinz.service@dana.com, www.victorreinz.com",
+      "main_specifications": {
+        "Material": "Metal",
+        "Engine Compatibility": "3-Cylinder Turbocharged"
+      },
+      "other_specifications": {
+        "EAN": "4026635214366",
+        "Brand class": "Premium",
+        "Cross-References": "ELRING 797.800, GLASER X90796-01"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Peugeot 2008 II",
+          "Peugeot 3008 II",
+          "Citroën C3 III",
+          "Citroën C4 III",
+          "Citroën Berlingo III",
+          "Opel Corsa F",
+          "Opel Mokka B",
+          "Opel Grandland X",
+          "Jeep Avenger"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.2 Turbo", "1.2 PureTech 155"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)", "HNJ (EB2ADTXM)", "HNR (EB2ADTXM)"],
+        "power_hp": ["130 HP", "155 HP"]
+      }
+    },
+    {
+      "id": "59",
+      "name": "Holder, exhaust system FEBI BILSTEIN 172094",
+      "sku": "172094",
+      "oe_number": "1755 N0, 1755 N1, 1755N0, 1755N1",
+      "price": 115.00,
+      "sale_price": 115.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 24,
+      "category": "exhaust-system",
+      "search_keywords": "holder exhaust system febi bilstein 172094 suport esapament tampon cauciuc toba intermediara finala peugeot 207 208 2008 citroen c3 c4 c-elysee bosal 255156 hjs 83212930 1755.n0 1755.n1",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FVendor%2Ffebi_bilstein%2F172094%2F172094_1.jpg?1"
+      ],
+      "manufacturer": "FEBI BILSTEIN",
+      "manufacturer_details": "Ferdinand Bilstein GmbH + Co KG, Wilhelmstraße 47, Ennepetal, 58256, DE, +49-(0)2333-911-0, info@febi.com, www.bilsteingroup.com",
+      "main_specifications": {
+        "Fitting Position": "Rear, Centre",
+        "Material": "Rubber/Metal"
+      },
+      "other_specifications": {
+        "EAN": "4054224720943",
+        "Brand class": "Premium",
+        "Cross-References": "BOSAL 255-156, HJS 83 21 2930, SASIC 2950007, FA1 213-940, WALKER 80549"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 207",
+          "Peugeot 208 I",
+          "Peugeot 2008 I",
+          "Citroën C3 II",
+          "Citroën C3 III",
+          "Citroën C4 Cactus",
+          "Citroën C-Elysee",
+          "Peugeot 301"
+        ],
+        "year": [2006, 2010, 2014, 2018, 2022],
+        "engine_badge": ["1.2 VTi", "1.4 HDi", "1.6 HDi", "1.4 16V", "1.6 VTi"],
+        "engine_type": ["Petrol", "Diesel"],
+        "engine_code": ["HM01 (EB2M)", "8HR (DV4C)", "9HP (DV6DTED)", "8FS (EP3)", "5FS (EP6C)"],
+        "power_hp": ["68 HP", "82 HP", "92 HP", "95 HP", "120 HP"]
+      }
+    },
+    {
+      "id": "60",
+      "name": "Sensor, intake manifold pressure FAE 15281",
+      "sku": "15281",
+      "oe_number": "96 753 330 80, 9675333080, 3639838, 3 639 838",
+      "price": 420.00,
+      "sale_price": 420.00,
+      "currency": "MDL",
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "in_stock_qty": 9,
+      "category": "exhaust-system",
+      "search_keywords": "sensor intake manifold pressure fae 15281 senzor presiune galerie admisie map turbo peugeot 208 308 2008 3008 citroen c3 c4 berlingo opel corsa mokka grandland 1.2 puretech hnn eb2adtx facet 10.3335 bosch helle 9675333080",
+      "images": [
+        "https://picdn.trodo.com/media/m2_catalog_cache/480x480%2FTecDoc%2F240%2F034%2F03%2F15281.jpg?1"
+      ],
+      "manufacturer": "FAE",
+      "manufacturer_details": "FRANCISCO ALBERO S.A., Rafael Barradas, 19, Polig. Industrial Gran Via Sud, L'Hospitalet de Llobregat, Barcelona, 08908, 34-93 261 85 00, fae@fae.es, www.fae.es",
+      "main_specifications": {
+        "Number of pins": "4",
+        "Pressure from [kPA]": "44",
+        "Pressure to [kPA]": "300"
+      },
+      "other_specifications": {
+        "EAN": "8435050664995",
+        "Brand class": "Price/Performance",
+        "Cross-References": "FACET 10.3335, FEBI BILSTEIN 186534, HELLA 6PP 009 403-391, METZGER 0905508, MEAT & DORIA 823050"
+      },
+      "compatibility": {
+        "car_model": [
+          "Peugeot 208 II",
+          "Peugeot 308 III",
+          "Peugeot 2008 II",
+          "Peugeot 3008 II",
+          "Citroën C3 III",
+          "Citroën C4 III",
+          "Citroën Berlingo III",
+          "Opel Corsa F",
+          "Opel Mokka B",
+          "Opel Grandland X"
+        ],
+        "year": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "engine_badge": ["1.2 PureTech 130", "1.2 Turbo", "1.2 PureTech 100"],
+        "engine_type": ["Petrol"],
+        "engine_code": ["HNN (EB2ADTX)", "HN05 (EB2ADTX)", "HNK (EB2ADTD)"],
+        "power_hp": ["100 HP", "130 HP", "155 HP"]
+      }
+    }
+  ],
+
+  "promo_codes": [
+    { "code": "PROMO2026", "value": 20 },
+    { "code": "START26", "value": 10 },
+    { "code": "DRIVE10", "value": 10 },
+    { "code": "SPRING26", "value": 15 },
+    { "code": "VIPBONUS", "value": 12 },
+    { "code": "COMPATIBIL15", "value": 15 },
+    { "code": "FRANE20", "value": 20 },
+    { "code": "FREESHIP26", "value": 5 }
+  ]
+}

@@ -1,0 +1,113 @@
+/* CONTACT */
+.contact {
+    display: flex;
+    gap: var(--gap);
+
+    max-width: 1600px;
+    margin-inline: auto;
+
+    & .contact__intro {
+        display: flex;
+        flex-direction: column;
+        gap: var(--gap);
+    }
+
+    & .contact__content {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+        padding: var(--padding-large);
+
+        background-color: var(--card-background);
+        border-radius: var(--border-radius);
+    }
+
+    & .contact__description {
+        color: var(--text-second);
+    }
+
+    & .contact__nav {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    & .contact__channel {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+
+    & .contact__form {
+        --current-bg: var(--card-background);
+
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        width: 100%;
+        max-width: 500px;
+        min-width: 360px;
+        height: fit-content;
+        padding: var(--padding-large);
+
+        background-color: var(--current-bg);
+        border-radius: var(--border-radius);
+    }
+
+    & .contact__form-row {
+        display: flex;
+        gap: 20px;
+
+        & .input-block {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+
+        & .contact__form {
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 480px) {
+        & .contact__content {
+            gap: 20px;
+        }
+
+        & .contact__nav {
+            gap: 10px;
+        }
+
+        & .contact__channel {
+            gap: 20px;
+        }
+
+        & .contact__form {
+            min-width: 280px;
+        }
+
+        & .contact__form-row {
+            flex-direction: column;
+        }
+    }
+}
+
+/* MAP */
+.map {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap);
+
+    max-width: 1600px;
+    margin-inline: auto;
+
+    & .map__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: var(--bento-gap);
+    }
+}

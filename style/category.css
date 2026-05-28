@@ -1,0 +1,25 @@
+/* CATEGORY-GRID */
+.category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap);
+
+    max-width: 1600px;
+    margin-inline: auto;
+
+    & .category__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+        justify-items: center;
+        gap: var(--bento-gap);
+
+        width: 100%;
+    }
+
+    @media (max-width: 480px) {
+        & .category__grid {
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        }
+    }
+}

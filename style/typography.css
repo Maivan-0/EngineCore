@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* TEXT-COLOR */
+.text-second {
+    color: var(--text-second);
+}
+
+.text-accent {
+    color: var(--accent);
+}
+
+/* Desktop */
+.heading-H1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.heading-H2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.heading-H3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.heading-H4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+
+.heading-H5 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.125rem;
+    text-transform: uppercase;
+}
+
+.paragraph-P1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.paragraph-P2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+}
+
+.paragraph-P3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+.paragraph-P3-medium {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.paragraph-P4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.75rem;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+    .heading-H1 {
+        font-size: 2rem;
+    }
+
+    .heading-H2 {
+        font-size: 1.5rem;
+    }
+
+    .heading-H3 {
+        font-size: 1.25rem;
+    }
+
+    .heading-H4 {
+        font-size: 1.125rem;
+    }
+
+    .heading-H5 {
+        font-size: 1rem;
+    }
+
+    .paragraph-P1 {
+        font-size: 1.125rem;
+    }
+
+    .paragraph-P2 {
+        font-size: 1rem;
+    }
+
+    .paragraph-P3 {
+        font-size: 0.75rem;
+    }
+
+    .paragraph-P3-medium {
+        font-size: 0.75rem;
+    }
+
+    .paragraph-P4 {
+        font-size: 0.625rem;
+    }
+}
+

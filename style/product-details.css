@@ -1,0 +1,287 @@
+/* PRODUCT-DETAILS */
+.product-details {
+    display: grid;
+    grid-template-columns: 410px 1fr 410px;
+    grid-template-areas:
+        "gallery header header"
+        "gallery specification-main specification-main"
+        "gallery cta cta"
+        "specification-others specification-others manufacturer ";
+    gap: var(--bento-gap);
+
+    max-width: 1600px;
+    margin-inline: auto;
+
+    & .product-details__header { grid-area: header; }
+    & .product-details__specification--main { grid-area: specification-main; }
+    & .product-details__specification--others { grid-area: specification-others; }
+    & .product-details__cta { grid-area: cta; }
+    & .product-details__gallery { grid-area: gallery; }
+    & .product-details__manufacturer { grid-area: manufacturer; }
+
+    & .product-details__header {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+
+        min-width: 280px;
+        padding: var(--padding-small);
+
+        background-color: var(--card-background);
+        border-radius: var(--border-radius);
+    }
+
+    & .product-details__badge {
+        --text-color: var(--card-background);
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        flex-shrink: 0;
+
+        width: 100px;
+        height: 44px;
+
+        font-family: "Oswald", sans-serif;
+        color: var(--text-color);
+
+        border-radius: 8px;
+
+        &.in-stock {
+            --background-color: var(--valid);
+            background-color: var(--background-color);
+
+            &::before {
+                content: "In Stock";
+            }
+        }
+
+        &.out-of-stock {
+            --background-color: var(--text-second);
+            background-color: var(--background-color);
+
+            &::before {
+                content: "Out of Stock";
+            }
+        }
+    }
+
+    & .product-details__specification {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        min-width: 280px;
+        padding: var(--padding-small);
+
+        background-color: var(--card-background);
+        border-radius: var(--border-radius);
+    }
+
+    & .product-details__specification-row {
+        display: flex;
+        gap: 10px;
+    }
+
+    & .product-details__specification-label {
+        flex-shrink: 0;
+        width: 200px;
+
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
+
+    & .product-details__specification-value {
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
+
+    & .product-details__specification--others {
+        align-self: start;
+    }
+
+    & .product-details__cta {
+        --current-bg: var(--card-background);
+
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 20px;
+
+        min-width: 280px;
+        height: fit-content;
+        padding: var(--padding-small);
+
+        background-color: var(--current-bg);
+        border-radius: var(--border-radius);
+    }
+
+    & .product-details__price {
+        color: var(--accent);
+    }
+
+    & .product-details__actions {
+        display: flex;
+        gap: 20px;
+    }
+
+    & .product-details__row {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+
+        width: 100%;
+    }
+
+    & .product-details__quantity {
+        display: flex;
+        gap: 10px;
+    }
+
+    & .product-details__btn {
+        display: flex;
+        gap: 20px;
+    }
+
+    & .product-details__gallery {
+        --background-color: var(--text);
+
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        justify-self: center;
+
+        width: 100%;
+        min-width: 280px;
+
+        & .gallery__main {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 410px;
+            padding: 20px;
+
+            background-color: var(--background-color);
+            border-radius: var(--border-radius);
+
+            overflow: hidden;
+            transition: 0.2s ease-in-out;
+        }
+
+        & .gallery__img {
+            width: 100%;
+            max-width: 500px;
+            height: 100%;
+
+            object-fit: contain;
+
+            transition: 0.2s ease-in-out;
+
+            &:hover {
+                scale: 1.05;
+            }
+        }
+
+        & .gallery__thumbs {
+            display: flex;
+            gap: 10px;
+
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+
+        & .gallery__thumb-item {
+            width: 80px;
+            height: 80px;
+            padding: 5px;
+
+            flex-shrink: 0;
+
+            background-color: var(--background-color);
+            border-radius: 8px;
+
+            overflow: hidden;
+
+            transition: 0.2s ease-in-out;
+
+            &.is-active {
+                border: 2px solid var(--accent);
+            }
+        }
+    }
+
+    & .product-details__manufacturer {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        min-width: 280px;
+        padding: var(--padding-small);
+
+        background-color: var(--card-background);
+        border-radius: var(--border-radius);
+    }
+    
+    @media (max-width: 1440px) {
+        grid-template-columns: 410px 1fr 300px;
+        grid-template-areas:
+            "header header header"
+            "gallery specification-main specification-main"
+            "gallery cta cta"
+            "specification-others specification-others manufacturer ";
+
+        & .product-details__specification-label {
+            width: 175px;
+        }
+    }
+
+    @media (max-width: 1024px) {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "header"
+            "gallery"
+            "specification-main"
+            "cta"
+            "specification-others"
+            "manufacturer ";
+
+        & .product-details__specification-label {
+            width: 150px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        & .product-details__specification-label {
+            width: 125px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        & .product-details__specification-label {
+            width: 100px;
+        }
+
+        & .product-details__actions {
+            gap: 10px;
+            width: 100%;
+
+            & .btn-text {
+                width: 100%;
+            }
+        }
+
+        & .product-details__gallery {
+            & .gallery__main {
+                height: 280px;
+                padding: 10px;
+            }
+
+            & .gallery__thumb-item {
+                width: 60px;
+                height: 60px;
+            }
+        }
+    }
+}
